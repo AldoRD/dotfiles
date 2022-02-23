@@ -1,0 +1,8 @@
+[2022-01-14 21:42:49.632] [renderer1] [info] Starting extension host with pid 17932.
+[2022-01-14 21:42:49.632] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 29 ms.
+[2022-01-14 21:42:50.525] [renderer1] [error] [Extension Host] (node:17932) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-14 21:43:17.646] [renderer1] [error] Cannot read property 'length' of undefined: TypeError: Cannot read property 'length' of undefined
+	at /home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:257359
+	at p (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:262355)
+	at async B.provideCompletionItems (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:181124)

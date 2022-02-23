@@ -1,0 +1,12 @@
+[2022-01-09 00:03:31.627] [exthost] [info] Extension host with pid 21604 started
+[2022-01-09 00:03:31.627] [exthost] [info] Skipping acquiring lock for /home/aldo/.config/Code - OSS/User/workspaceStorage/599343dfbc15785120d9b0544b7ac9a3.
+[2022-01-09 00:03:31.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-09 00:03:31.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-09 00:03:31.759] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-09 00:03:32.371] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-01-09 00:03:32.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-09 00:03:32.966] [exthost] [info] Eager extensions activated
+[2022-01-09 00:03:33.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 00:03:33.042] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-09 00:06:32.455] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-09 00:06:33.479] [exthost] [info] Extension host with pid 21604 exiting with code 0

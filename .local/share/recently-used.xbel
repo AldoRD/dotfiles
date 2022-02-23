@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/aldo/Downloads/1192293.png" added="2022-01-26T18:52:07.416668Z" modified="2022-01-26T18:52:07.416678Z" visited="2022-01-26T18:52:07.416669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-26T18:52:07.416671Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Curr%C3%ADculum%20Leyva%20Rodr%C3%ADguez%20Alberto.pdf" added="2022-01-27T04:42:04.265917Z" modified="2022-01-27T04:42:04.265928Z" visited="2022-01-27T04:42:04.265918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-27T04:42:04.265922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/CVJavierAguilarBaez.pdf" added="2022-01-27T05:00:19.685584Z" modified="2022-01-27T05:00:19.685598Z" visited="2022-01-27T05:00:19.685585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-27T05:00:19.685591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/01-Tela.tar.xz" added="2022-01-28T19:47:41.293234Z" modified="2022-01-28T19:47:41.293246Z" visited="2022-01-28T19:47:41.293235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T19:47:41.293239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/kora_1-5.zip" added="2022-01-28T20:02:06.295041Z" modified="2022-01-28T20:02:06.295048Z" visited="2022-01-28T20:02:06.295043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T20:02:06.295044Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Reversal-black.tar.xz" added="2022-01-28T20:02:29.493762Z" modified="2022-01-28T20:02:29.493773Z" visited="2022-01-28T20:02:29.493763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T20:02:29.493766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/01-McMojave-circle.tar.xz" added="2022-01-28T20:42:46.936176Z" modified="2022-01-28T20:42:46.936184Z" visited="2022-01-28T20:42:46.936178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T20:42:46.936181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/01-Qogir.tar.xz" added="2022-01-28T20:43:04.351105Z" modified="2022-01-28T20:43:04.351125Z" visited="2022-01-28T20:43:04.351107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T20:43:04.351116Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Graphite-dark-nord.tar.xz" added="2022-01-28T20:56:07.104063Z" modified="2022-01-28T20:56:07.104073Z" visited="2022-01-28T20:56:07.104065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T20:56:07.104068Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Graphite-dark.tar.xz" added="2022-01-28T20:56:13.382274Z" modified="2022-01-28T20:56:13.382283Z" visited="2022-01-28T20:56:13.382275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-28T20:56:13.382279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/EXAMENDIAGNOSTICO%20.pdf" added="2022-02-04T19:56:45.870498Z" modified="2022-02-04T19:56:45.870515Z" visited="2022-02-04T19:56:45.870500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-04T19:56:45.870501Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Music" added="2022-02-07T06:14:06.461019Z" modified="2022-02-07T06:14:06.461025Z" visited="2022-02-07T06:14:06.461020Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-07T06:14:06.461022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/CCAY_TCYS_T1.pdf" added="2022-02-09T05:52:39.116760Z" modified="2022-02-09T05:52:50.686040Z" visited="2022-02-09T05:52:39.116762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-09T05:52:50.686037Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Android%20Studio%20Instalacion%20v40.pdf" added="2022-02-12T20:16:23.264973Z" modified="2022-02-12T20:16:23.264986Z" visited="2022-02-12T20:16:23.264974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T20:16:23.264979Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Android%20Studio%20Instalacion%20v4%20Anexo.pdf" added="2022-02-12T20:16:26.922918Z" modified="2022-02-12T20:16:26.922928Z" visited="2022-02-12T20:16:26.922919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T20:16:26.922923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/AD4MD%201%20Plantillas.pdf" added="2022-02-12T20:16:31.061228Z" modified="2022-02-12T20:16:31.061256Z" visited="2022-02-12T20:16:31.061231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T20:16:31.061248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/AD4MD%20Tarea%20Numeros.pdf" added="2022-02-12T20:16:36.380055Z" modified="2022-02-15T03:46:03.662976Z" visited="2022-02-12T20:16:36.380058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-15T03:46:03.662974Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Images/Screenshots/2022-02-12-15:04:29-screenshot.png" added="2022-02-12T21:05:04.590534Z" modified="2022-02-12T21:05:04.590542Z" visited="2022-02-12T21:05:04.590536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T21:05:04.590539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Images/Screenshots/2022-02-12-15:06:56-screenshot.png" added="2022-02-12T21:07:05.925104Z" modified="2022-02-12T21:07:05.925110Z" visited="2022-02-12T21:07:05.925105Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T21:07:05.925107Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Images/Screenshots/2022-02-12-15:08:51-screenshot.png" added="2022-02-12T21:09:03.253901Z" modified="2022-02-12T21:09:03.253910Z" visited="2022-02-12T21:09:03.253904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T21:09:03.253906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Images/Screenshots/2022-02-12-15:10:47-screenshot.png" added="2022-02-12T21:13:04.470740Z" modified="2022-02-12T21:13:04.470748Z" visited="2022-02-12T21:13:04.470741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T21:13:04.470745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Images/Screenshots/2022-02-12-15:11:55-screenshot.png" added="2022-02-12T21:13:24.366839Z" modified="2022-02-12T21:13:24.366845Z" visited="2022-02-12T21:13:24.366840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T21:13:24.366842Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Actividad%201.pdf" added="2022-02-14T00:21:29.332683Z" modified="2022-02-14T00:21:29.332691Z" visited="2022-02-14T00:21:29.332684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-14T00:21:29.332687Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Unidad1_Actividad1_RamirezDominguezAldoEduardo.pdf" added="2022-02-14T00:23:58.095384Z" modified="2022-02-14T00:23:58.095394Z" visited="2022-02-14T00:23:58.095386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-14T00:23:58.095389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/.screenlayout/temp.sh" added="2022-02-15T03:42:10.564601Z" modified="2022-02-15T03:42:10.564606Z" visited="2022-02-15T03:42:10.564602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2022-02-15T03:42:10.564603Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/oficina.png" added="2022-02-15T23:07:34.733613Z" modified="2022-02-15T23:07:34.733619Z" visited="2022-02-15T23:07:34.733615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-15T23:07:34.733616Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/computer-and-monitor-of-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-for-graphic-design-art-designer-workplace-concept.zip" added="2022-02-15T23:09:04.249036Z" modified="2022-02-15T23:09:04.249042Z" visited="2022-02-15T23:09:04.249037Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-15T23:09:04.249040Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/13038.jpg" added="2022-02-15T23:11:54.778308Z" modified="2022-02-15T23:14:38.449915Z" visited="2022-02-15T23:11:54.778310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-15T23:14:38.449911Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/13038-PhotoRoom.png" added="2022-02-15T23:14:58.451716Z" modified="2022-02-15T23:15:11.258168Z" visited="2022-02-15T23:14:58.451718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-15T23:15:11.258165Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/js.png" added="2022-02-15T23:55:45.092546Z" modified="2022-02-16T00:01:53.111668Z" visited="2022-02-15T23:55:45.092550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:01:53.111665Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/node.png" added="2022-02-15T23:57:05.674094Z" modified="2022-02-15T23:59:23.222910Z" visited="2022-02-15T23:57:05.674096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-15T23:59:23.222904Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/node-PhotoRoom.png" added="2022-02-15T23:59:46.955212Z" modified="2022-02-16T00:01:53.111684Z" visited="2022-02-15T23:59:46.955214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:01:53.111680Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/react.png" added="2022-02-16T00:00:50.794711Z" modified="2022-02-16T00:01:53.111629Z" visited="2022-02-16T00:00:50.794713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:01:53.111625Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/py.png" added="2022-02-16T00:01:14.243197Z" modified="2022-02-16T00:01:53.111652Z" visited="2022-02-16T00:01:14.243200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:01:53.111648Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/ts.png" added="2022-02-16T00:04:57.978881Z" modified="2022-02-16T00:07:29.954750Z" visited="2022-02-16T00:04:57.978883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:07:29.954747Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/c++.png" added="2022-02-16T00:07:21.701093Z" modified="2022-02-16T00:07:29.954768Z" visited="2022-02-16T00:07:21.701097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:07:29.954765Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RamirezDominguezAldo_PasosBaile_3CM14.pdf" added="2022-02-16T00:28:05.156071Z" modified="2022-02-16T00:31:37.654270Z" visited="2022-02-16T00:28:05.156078Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:31:37.654266Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RamirezDominguezAldo_ISWFailure_3CM14.pdf" added="2022-02-16T00:28:19.060185Z" modified="2022-02-16T00:35:49.559329Z" visited="2022-02-16T00:28:19.060187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T00:35:49.559326Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RamirezDominguezAldoPlantillas3CM16.pdf" added="2022-02-16T00:29:41.745051Z" modified="2022-02-16T01:13:19.546930Z" visited="2022-02-16T00:29:41.745054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T01:13:19.546927Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RamirezDominguezAldoNumeros3CM16.pdf" added="2022-02-16T00:29:54.911596Z" modified="2022-02-16T01:13:19.546912Z" visited="2022-02-16T00:29:54.911598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T01:13:19.546910Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RamirezDominguezAldoManual3CM16.pdf" added="2022-02-16T00:30:03.710826Z" modified="2022-02-16T01:13:19.546883Z" visited="2022-02-16T00:30:03.710829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T01:13:19.546872Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RAMIREZDOMINGUEZALDO.jpg" added="2022-02-16T01:26:54.202560Z" modified="2022-02-16T01:29:46.766151Z" visited="2022-02-16T01:26:54.202562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-16T01:29:46.766148Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Linux64CmapTools_v6.04_09-24-19.bin" added="2022-02-17T16:12:29.034823Z" modified="2022-02-17T16:12:29.034835Z" visited="2022-02-17T16:12:29.034824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-17T16:12:29.034827Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/IMG_20220213_141923_HDR.jpg" added="2022-02-17T22:00:21.143164Z" modified="2022-02-23T15:09:03.374775Z" visited="2022-02-17T22:00:21.143165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-23T15:09:03.374772Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/MapaConceptual.pdf" added="2022-02-17T22:05:21.519789Z" modified="2022-02-17T22:05:21.519795Z" visited="2022-02-17T22:05:21.519790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-17T22:05:21.519793Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/l.pdf" added="2022-02-17T22:40:26.372700Z" modified="2022-02-17T22:40:26.372708Z" visited="2022-02-17T22:40:26.372702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-17T22:40:26.372704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/CARTAPRESENTACI%C3%93N.pdf" added="2022-02-18T02:31:12.097684Z" modified="2022-02-18T02:31:12.097693Z" visited="2022-02-18T02:31:12.097686Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-18T02:31:12.097689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RDAE_A2_MAPA_3CM14.pdf" added="2022-02-18T02:33:42.488350Z" modified="2022-02-18T02:33:42.488361Z" visited="2022-02-18T02:33:42.488352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-18T02:33:42.488354Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RDAE_A1_CARTA_3CM14.pdf" added="2022-02-18T02:35:22.927827Z" modified="2022-02-18T02:35:22.927841Z" visited="2022-02-18T02:35:22.927830Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-18T02:35:22.927835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/273781801_5328369727173166_5790032087041492330_n.jpg" added="2022-02-18T19:30:53.272168Z" modified="2022-02-21T18:48:24.145636Z" visited="2022-02-18T19:30:53.272170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T18:48:24.145633Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/WhatsApp%20Ptt%202022-02-20%20at%201.03.58%20AM.ogg" added="2022-02-20T07:15:31.087034Z" modified="2022-02-20T07:15:31.087041Z" visited="2022-02-20T07:15:31.087035Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T07:15:31.087038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/WhatsApp%20Ptt%202022-02-20%20at%2012.59.03%20AM.ogg" added="2022-02-20T07:17:22.926478Z" modified="2022-02-20T07:17:34.448964Z" visited="2022-02-20T07:17:22.926479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T07:17:34.448961Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/AD4MD%20Tarea4%20Intentos.pdf" added="2022-02-20T18:29:09.419722Z" modified="2022-02-20T18:29:09.419739Z" visited="2022-02-20T18:29:09.419724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T18:29:09.419735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/AD4MD%20Tarea2%20EditText.pdf" added="2022-02-20T18:29:16.902537Z" modified="2022-02-20T18:29:16.902546Z" visited="2022-02-20T18:29:16.902539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T18:29:16.902543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/AD4MD%20Tarea3%20Botones.pdf" added="2022-02-20T18:29:20.866487Z" modified="2022-02-20T18:29:20.866501Z" visited="2022-02-20T18:29:20.866490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T18:29:20.866493Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2.png" added="2022-02-20T21:51:08.304827Z" modified="2022-02-21T22:17:52.228484Z" visited="2022-02-20T21:51:08.304829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:17:52.228481Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(1).png" added="2022-02-20T22:09:09.873678Z" modified="2022-02-21T22:17:52.228469Z" visited="2022-02-20T22:09:09.873680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:17:52.228465Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(2).png" added="2022-02-20T22:15:04.048938Z" modified="2022-02-21T20:45:18.122289Z" visited="2022-02-20T22:15:04.048942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T20:45:18.122283Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(3).png" added="2022-02-20T22:17:35.825228Z" modified="2022-02-21T20:45:48.518787Z" visited="2022-02-20T22:17:35.825231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T20:45:48.518783Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(4).png" added="2022-02-20T22:18:41.703331Z" modified="2022-02-21T21:30:12.519712Z" visited="2022-02-20T22:18:41.703333Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T21:30:12.519708Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(5).png" added="2022-02-20T22:21:19.332398Z" modified="2022-02-21T21:30:32.400228Z" visited="2022-02-20T22:21:19.332400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T21:30:32.400222Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(6).png" added="2022-02-20T22:22:42.527542Z" modified="2022-02-21T21:30:55.010776Z" visited="2022-02-20T22:22:42.527546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T21:30:55.010770Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(7).png" added="2022-02-20T22:24:32.977488Z" modified="2022-02-21T22:23:16.180139Z" visited="2022-02-20T22:24:32.977490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:23:16.180136Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(8).png" added="2022-02-20T22:27:26.587800Z" modified="2022-02-21T21:31:25.376132Z" visited="2022-02-20T22:27:26.587804Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T21:31:25.376125Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(9).png" added="2022-02-20T22:29:39.495646Z" modified="2022-02-21T22:23:16.180123Z" visited="2022-02-20T22:29:39.495647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:23:16.180120Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(10).png" added="2022-02-20T22:33:56.181809Z" modified="2022-02-21T22:25:41.332850Z" visited="2022-02-20T22:33:56.181811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:25:41.332846Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(11).png" added="2022-02-20T22:39:03.855256Z" modified="2022-02-21T22:25:41.332876Z" visited="2022-02-20T22:39:03.855259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:25:41.332869Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(12).png" added="2022-02-20T22:40:35.614235Z" modified="2022-02-21T22:27:24.012811Z" visited="2022-02-20T22:40:35.614238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:27:24.012806Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(13).png" added="2022-02-20T22:47:27.464230Z" modified="2022-02-21T22:27:24.012782Z" visited="2022-02-20T22:47:27.464232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T22:27:24.012776Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(14).png" added="2022-02-20T22:52:04.886568Z" modified="2022-02-20T23:56:24.908287Z" visited="2022-02-20T22:52:04.886570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T23:56:24.908283Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(15).png" added="2022-02-20T22:57:39.163196Z" modified="2022-02-20T23:56:59.883076Z" visited="2022-02-20T22:57:39.163200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T23:56:59.883073Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(16).png" added="2022-02-20T23:08:34.470055Z" modified="2022-02-20T23:57:29.810948Z" visited="2022-02-20T23:08:34.470057Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T23:57:29.810941Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(17).png" added="2022-02-20T23:12:29.361046Z" modified="2022-02-21T00:00:49.373070Z" visited="2022-02-20T23:12:29.361049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T00:00:49.373066Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(18).png" added="2022-02-20T23:12:58.551580Z" modified="2022-02-21T00:01:05.996074Z" visited="2022-02-20T23:12:58.551582Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T00:01:05.996068Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(19).png" added="2022-02-20T23:15:20.327271Z" modified="2022-02-21T00:01:21.612106Z" visited="2022-02-20T23:15:20.327274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T00:01:21.612103Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(20).png" added="2022-02-20T23:58:56.470135Z" modified="2022-02-20T23:59:09.157031Z" visited="2022-02-20T23:58:56.470138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-20T23:59:09.157028Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Tarea2(21).png" added="2022-02-21T00:00:09.420555Z" modified="2022-02-21T00:00:24.068026Z" visited="2022-02-21T00:00:09.420557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T00:00:24.068022Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/ld-Analisis%20y%20Diseno%20de%20Sistemas_Kendall-8va.pdf" added="2022-02-21T15:19:14.072969Z" modified="2022-02-21T15:19:14.072977Z" visited="2022-02-21T15:19:14.072970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T15:19:14.072973Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Export-843ccce8-67af-4e7e-9db0-13f676037a5a.zip" added="2022-02-21T18:44:18.657721Z" modified="2022-02-21T18:44:18.657741Z" visited="2022-02-21T18:44:18.657724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T18:44:18.657733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Python_Fundamentos_Bsicos.pdf" added="2022-02-21T18:46:11.860926Z" modified="2022-02-21T18:46:45.067221Z" visited="2022-02-21T18:46:11.860930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T18:46:45.067216Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Python_POO.pdf" added="2022-02-21T18:47:28.946414Z" modified="2022-02-21T18:47:33.852103Z" visited="2022-02-21T18:47:28.946415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T18:47:33.852082Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/reggaedrum_09_167a_bytuneloniration.wav" added="2022-02-21T19:42:20.724237Z" modified="2022-02-21T19:42:20.724272Z" visited="2022-02-21T19:42:20.724252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T19:42:20.724258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/imagen.png" added="2022-02-21T20:05:44.858308Z" modified="2022-02-21T20:05:45.215444Z" visited="2022-02-21T20:05:44.858311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T20:05:45.215438Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/RADA991119HDFMML03.pdf" added="2022-02-21T21:02:44.568884Z" modified="2022-02-21T21:10:10.312248Z" visited="2022-02-21T21:02:44.568885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-21T21:10:10.312243Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/IMG_20210828_093527.jpg" added="2022-02-23T15:03:46.175630Z" modified="2022-02-23T15:13:04.015821Z" visited="2022-02-23T15:03:46.175631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-23T15:13:04.015817Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/IMG_20210828_093527-min.jpg" added="2022-02-23T15:13:55.694025Z" modified="2022-02-23T15:14:47.290391Z" visited="2022-02-23T15:13:55.694027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-23T15:14:47.290383Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aldo/Downloads/Checklist%20de%20entrenamiento%20ba%CC%81sico%20en%20Worki%20IPN.pdf" added="2022-02-23T15:15:26.018536Z" modified="2022-02-23T15:15:26.018546Z" visited="2022-02-23T15:15:26.018538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-23T15:15:26.018541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

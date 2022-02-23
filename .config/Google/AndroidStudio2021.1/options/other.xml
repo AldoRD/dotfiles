@@ -1,0 +1,175 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrainsMono Nerd Font" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="24sHKEs9OwqmyBPmk9Bh1URw6rC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24sINNnrkK25xijnMnPoTopZfbG">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24u0fkHKb789fzxQM5v9hC9Zuqy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24wdXyzxuFKYAXADFuU03MgUpc8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="251grzOUB6ZOJChijSmDmSxecaO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25OLrLJOrvzmHPrjltSQnPLwtOF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25QyEn77dSUaYsxRg9UTKIypuoF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25R2iyHl8hKGL2pDWccEEmueyPh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25T07bwZjSxdZLwxmxaNII2A9kc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25T788uajBm2HPNVWft6fW9AoCp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Visualization.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="295" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="280" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Visualization.TOOL_ORDER" value="" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="LOG_FILTER_HISTORY" value="Obteni" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="28" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_ANDROID_NPW_ASKED_LANGUAGE" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SAVED_RENDER_LANGUAGE" value="Java" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/01App/app/src/main/res/layout/activity_main.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/01app/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/02App/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/02a/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week2/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week2/app/src/main/res/layout/activity_segunda.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3/app/src/main/res/layout/activity_mifragmento.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3_1/app/src/main/res/layout/activity_detalle.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3_1/app/src/main/res/layout/activity_main.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3_1/app/src/main/res/layout/fragment_detalle.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3_1/app/src/main/res/layout/fragment_listado.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_/home/aldo/AndroidStudioProjects/Week3_1/app/src/main/res/layout/listitem_grupo.xml" value="DEACTIVATED" />
+    <property name="appcds.runOnSecondStart" value="AI-211.7628.21.2111.8139111-ad089d5f54d05331b87da091e3e5278f0a1d4663b838483c8d244b5a50ba2374" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="colorPickerCategoryProperty" value="MATERIAL_500" />
+    <property name="file.gist.reindex.count" value="40" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.previous.build.number" value="AI-211.7628.21.2111.8139111" />
+    <property name="inspector.open.All Attributes" value="true" />
+    <property name="inspector.open.Layout" value="false" />
+    <property name="installed.kotlin.plugin.version" value="211-1.6.10-release-923-AS7442.40" />
+    <property name="kotlin.plugin.releaseDate" value="211-1.6.10-release-923-AS7442.40:2021-12-15" />
+    <property name="lastSeenTip" value="Kotlin.html" />
+    <property name="lastTimeTipsWereShown" value="1645535527964" />
+    <property name="newly.installed.api.level" value="31" />
+    <property name="seenTips" value="InjectSQLLanguage.html,Kotlin_Java_convert.html,Kotlin_project.html,Kotlin.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="02-App-history" project-path="$USER_HOME$/AndroidStudioProjects/02App" last-access-time="1644707103419" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

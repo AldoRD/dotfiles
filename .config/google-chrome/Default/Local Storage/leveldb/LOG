@@ -1,0 +1,18 @@
+2022/02/23-10:15:41.370 3 Reusing MANIFEST /home/aldo/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/02/23-10:15:41.371 3 Recovering log #3
+2022/02/23-10:15:41.371 3 Reusing old log /home/aldo/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2022/02/23-10:17:48.945 3 Level-0 table #5: started
+2022/02/23-10:17:48.957 3 Level-0 table #5: 129188 bytes OK
+2022/02/23-10:17:48.963 3 Delete type=0 #3
+2022/02/23-10:29:17.554 3 Level-0 table #7: started
+2022/02/23-10:29:17.561 3 Level-0 table #7: 29053 bytes OK
+2022/02/23-10:29:17.571 3 Delete type=0 #4
+2022/02/23-10:30:12.554 3 Level-0 table #9: started
+2022/02/23-10:30:12.563 3 Level-0 table #9: 33684 bytes OK
+2022/02/23-10:30:12.567 3 Delete type=0 #6
+2022/02/23-10:33:04.922 3 Level-0 table #11: started
+2022/02/23-10:33:04.964 3 Level-0 table #11: 614610 bytes OK
+2022/02/23-10:33:05.014 3 Delete type=0 #8
+2022/02/23-13:04:15.592 7e Level-0 table #13: started
+2022/02/23-13:04:15.599 7e Level-0 table #13: 19034 bytes OK
+2022/02/23-13:04:15.604 7e Delete type=0 #10

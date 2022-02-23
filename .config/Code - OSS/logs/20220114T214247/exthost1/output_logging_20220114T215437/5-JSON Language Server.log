@@ -1,0 +1,21 @@
+[Error - 21:54:37] Error while computing document colors for vscode://defaultsettings/defaultSettings.json: Invalid regular expression: /(^\d+(\-\d+)?$)|(.+)/: Invalid escape
+SyntaxError: Invalid regular expression: /(^\d+(\-\d+)?$)|(.+)/: Invalid escape
+    at new RegExp (<anonymous>)
+    at x (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:32092)
+    at /usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:44469
+    at Q (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:46279)
+    at /usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:44326
+    at Q (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:46279)
+    at e.getMatchingSchemas (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:43320)
+    at /usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:90837
+[Error - 21:54:37] Error while validating vscode://defaultsettings/defaultSettings.json: Invalid regular expression: /(^\d+(\-\d+)?$)|(.+)/: Invalid escape
+SyntaxError: Invalid regular expression: /(^\d+(\-\d+)?$)|(.+)/: Invalid escape
+    at new RegExp (<anonymous>)
+    at x (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:32092)
+    at /usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:44469
+    at Q (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:46279)
+    at /usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:44326
+    at Q (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:46279)
+    at e.validate (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:42964)
+    at c (/usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:85285)
+    at /usr/lib/code/extensions/json-language-features/server/dist/node/jsonServerMain.js:1:85934

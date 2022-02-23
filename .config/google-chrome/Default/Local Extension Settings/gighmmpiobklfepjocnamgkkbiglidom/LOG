@@ -1,0 +1,40 @@
+2022/02/23-10:17:34.073 37fe Creating DB /home/aldo/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom since it was missing.
+2022/02/23-10:17:34.082 37fe Reusing MANIFEST /home/aldo/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2022/02/23-10:17:49.694 3b26 Level-0 table #5: started
+2022/02/23-10:17:49.818 3b26 Level-0 table #5: 9084511 bytes OK
+2022/02/23-10:17:49.824 3b26 Delete type=0 #3
+2022/02/23-10:17:53.919 39a4 Level-0 table #7: started
+2022/02/23-10:17:54.044 39a4 Level-0 table #7: 7407284 bytes OK
+2022/02/23-10:17:54.050 39a4 Delete type=0 #4
+2022/02/23-10:18:36.945 39cb Level-0 table #9: started
+2022/02/23-10:18:37.041 39cb Level-0 table #9: 7407314 bytes OK
+2022/02/23-10:18:37.050 39cb Delete type=0 #6
+2022/02/23-10:19:54.914 39cb Level-0 table #11: started
+2022/02/23-10:19:55.001 39cb Level-0 table #11: 7407220 bytes OK
+2022/02/23-10:19:55.006 39cb Delete type=0 #8
+2022/02/23-11:18:36.895 48b6 Level-0 table #13: started
+2022/02/23-11:18:37.013 48b6 Level-0 table #13: 7407427 bytes OK
+2022/02/23-11:18:37.017 48b6 Delete type=0 #10
+2022/02/23-12:18:35.073 4c40 Level-0 table #15: started
+2022/02/23-12:18:35.225 4c40 Level-0 table #15: 7407223 bytes OK
+2022/02/23-12:18:35.232 4c40 Delete type=0 #12
+2022/02/23-12:18:35.235 4c40 Compacting 4@0 + 1@1 files
+2022/02/23-12:18:35.434 4c40 Generated table #16@0: 1 keys, 7407223 bytes
+2022/02/23-12:18:35.439 4c40 Generated table #17@0: 3 keys, 198 bytes
+2022/02/23-12:18:35.439 4c40 Compacted 4@0 + 1@1 files => 7407421 bytes
+2022/02/23-12:18:35.443 4c40 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/02/23-12:18:35.443 4c40 Delete type=2 #7
+2022/02/23-12:18:35.443 4c40 Delete type=2 #9
+2022/02/23-12:18:35.443 4c40 Delete type=2 #11
+2022/02/23-12:18:35.443 4c40 Delete type=2 #13
+2022/02/23-12:18:35.443 4c40 Delete type=2 #15
+2022/02/23-12:18:36.293 53cd Level-0 table #19: started
+2022/02/23-12:18:36.309 4c40 Current memtable full; waiting...
+2022/02/23-12:18:36.438 53cd Level-0 table #19: 7407224 bytes OK
+2022/02/23-12:18:36.442 53cd Delete type=0 #14
+2022/02/23-12:18:36.444 53cd Level-0 table #21: started
+2022/02/23-12:18:36.562 53cd Level-0 table #21: 7407224 bytes OK
+2022/02/23-12:18:36.568 53cd Delete type=0 #18
+2022/02/23-13:00:40.605 508e Level-0 table #23: started
+2022/02/23-13:00:40.717 508e Level-0 table #23: 7407410 bytes OK
+2022/02/23-13:00:40.722 508e Delete type=0 #20

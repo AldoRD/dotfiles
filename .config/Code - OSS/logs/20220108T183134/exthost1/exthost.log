@@ -1,0 +1,58 @@
+[2022-01-08 18:31:39.750] [exthost] [info] Extension host with pid 23700 started
+[2022-01-08 18:31:39.919] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-08 18:31:39.942] [exthost] [error] Activating extension vscode.debug-auto-launch failed due to an error:
+[2022-01-08 18:31:39.942] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at n.dispose (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:694)
+	at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-01-08 18:31:39.943] [exthost] [error] Activating extension vscode.git failed due to an error:
+[2022-01-08 18:31:39.943] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at n.dispose (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:694)
+	at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-01-08 18:31:39.946] [exthost] [info] Eager extensions activated
+[2022-01-08 18:31:39.948] [exthost] [error] Activating extension vscode.merge-conflict failed due to an error:
+[2022-01-08 18:31:39.948] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.x.<computed>.F.charCodeAt.x.<computed> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at w._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11823)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9242)
+	at l._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88494)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88176
+	at Array.map (<anonymous>)
+	at l._activateExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88164)
+	at l.activateById (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:85762)
+	at w._activateById (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10244)
+	at w._activateOneStartupFinished (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:15441)
+	at w._activateAllStartupFinished (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:15812)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:16305
+[2022-01-08 18:31:39.949] [exthost] [error] Activating extension PKief.material-icon-theme failed due to an error:
+[2022-01-08 18:31:39.949] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.x.<computed>.F.charCodeAt.x.<computed> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at w._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11823)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9242)
+	at l._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88494)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88176
+	at Array.map (<anonymous>)
+	at l._activateExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:88164)
+	at l.activateById (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:85762)
+	at w._activateById (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10244)
+	at w._activateOneStartupFinished (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:15441)
+	at w._activateAllStartupFinished (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:15812)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:16305
+[2022-01-08 18:31:40.928] [exthost] [info] Extension host with pid 23700 exiting with code 0

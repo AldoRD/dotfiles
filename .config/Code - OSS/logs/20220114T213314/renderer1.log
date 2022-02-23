@@ -1,0 +1,16 @@
+[2022-01-14 21:33:16.320] [renderer1] [info] Starting extension host with pid 16550.
+[2022-01-14 21:33:16.321] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 30 ms.
+[2022-01-14 21:33:16.730] [renderer1] [error] [Extension Host] (node:16550) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-14 21:37:16.279] [renderer1] [info] Starting extension host with pid 16939.
+[2022-01-14 21:37:16.279] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 24 ms.
+[2022-01-14 21:37:16.736] [renderer1] [error] [Extension Host] (node:16939) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-14 21:38:09.107] [renderer1] [info] Starting extension host with pid 17001.
+[2022-01-14 21:38:09.108] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 30 ms.
+[2022-01-14 21:38:09.706] [renderer1] [error] [Extension Host] (node:17001) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-14 21:38:24.086] [renderer1] [info] Starting extension host with pid 17043.
+[2022-01-14 21:38:24.086] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 27 ms.
+[2022-01-14 21:38:24.531] [renderer1] [error] [Extension Host] (node:17043) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

@@ -1,0 +1,32 @@
+[2022-02-08 21:29:13.822] [exthost] [info] Extension host with pid 8195 started
+[2022-02-08 21:29:13.822] [exthost] [info] Skipping acquiring lock for /home/aldo/.config/Code - OSS/User/workspaceStorage/f7e3fc2921de9b6e9f52ae23c6471f38.
+[2022-02-08 21:29:13.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 21:29:13.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 21:29:13.957] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-02-08 21:29:14.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-08 21:29:14.028] [exthost] [info] Eager extensions activated
+[2022-02-08 21:29:14.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 21:29:14.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 21:29:14.049] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 21:29:21.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-02-08 21:29:44.653] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 21:29:44.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 21:29:44.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 21:30:36.033] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-08 21:30:36.103] [exthost] [info] Extension host with pid 8195 exiting with code 0
+[2022-02-08 21:30:40.310] [exthost] [info] Extension host with pid 8468 started
+[2022-02-08 21:30:40.310] [exthost] [info] Skipping acquiring lock for /home/aldo/.config/Code - OSS/User/workspaceStorage/f7e3fc2921de9b6e9f52ae23c6471f38.
+[2022-02-08 21:30:40.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 21:30:40.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 21:30:40.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-08 21:30:40.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-08 21:30:40.559] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-08 21:30:40.563] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: true, activationEvent: '*'
+[2022-02-08 21:30:40.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-08 21:30:40.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-08 21:30:40.750] [exthost] [info] Eager extensions activated
+[2022-02-08 21:30:40.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 21:30:40.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 21:30:40.860] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-08 21:30:44.334] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-08 21:30:44.346] [exthost] [info] Extension host with pid 8468 exiting with code 0

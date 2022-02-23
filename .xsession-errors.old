@@ -1,0 +1,581 @@
+config: Unknown setting: 'paddingless_monocle'.
+[ 22/02/22 07:07:39.521 parse_kawase_blur_strength INFO ] blur-strength: 7 [.iter = 3, .offset = 4.250000, .expand = 50]
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_SGI_video_sync.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_SGI_swap_control.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_OML_sync_control.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_MESA_swap_control.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_EXT_swap_control.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_EXT_texture_from_pixmap.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_ARB_create_context.
+[ 22/02/22 07:07:39.620 glx_has_extension INFO ] Found GLX extension GLX_EXT_buffer_age.
+[ 22/02/22 07:07:39.671 gl_has_extension INFO ] Missing GL extension GL_GREMEDY_string_marker.
+[ 22/02/22 07:07:39.671 generate_dual_kawase_params INFO ] blur-strength: 7 [.iter = 3, .offset = 3.250000]
+[ 22/02/22 07:07:39.680 glGetUniformLocationChecked INFO ] Failed to get location of uniform 'opacity'. This is normal when using custom shaders.
+
+(process:2786): GLib-CRITICAL **: 07:11:42.816: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+2022-02-22 07:11:47,156 [   2905]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.AndroidInitialConfigurator) 
+2022-02-22 07:11:49,139 [   4888]   WARN - ins.android.sdk.AndroidSdkData - Observed package id 'build-tools;31.0.0' in inconsistent location '/opt/android-sdk/build-tools/31' (Expected '/opt/android-sdk/build-tools/31.0.0') 
+2022-02-22 07:11:52,002 [   7751]   WARN - tartup.impl.StartupManagerImpl - Activities registered via registerPostStartupActivity must be dumb-aware: com.android.tools.idea.stats.AndroidStudioUsageTracker$ProjectLifecycleTracker$projectComponentsInitialized$1@a4c59c8 
+2022-02-22 07:11:54,938 [  10687]   WARN -            #com.android.ddmlib - * daemon not running; starting now at tcp:5037 
+2022-02-22 07:11:55,451 [  11200]   WARN - #com.intellij.ui.jcef.JBCefApp - JCEF runtime library is not a JBR module (Use JBR bundled with the IDE) 
+2022-02-22 07:11:55,534 [  11283]   WARN -            #com.android.ddmlib - * daemon started successfully 
+2022-02-22 07:11:57,858 [  13607]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:11:59,261 [  15010]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:11:59,757 [  15506]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.apk.ApkWritingAccessProvider) 
+2022-02-22 07:12:00,456 [  16205]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:12:00,990 [  16739]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:12:02,671 [  18420]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl) 
+2022-02-22 07:12:02,868 [  18617]   WARN - ssistant.WhatsNewBundleCreator - developer.android.com 
+java.net.UnknownHostException: developer.android.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.downloadConfig(WhatsNewBundleCreator.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.updateConfig(WhatsNewBundleCreator.java:238)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.isNewConfigVersion(WhatsNewBundleCreator.java:161)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewCheckVersionTask.run(WhatsNewCheckVersionTask.kt:34)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:998)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressAsync$5(CoreProgressManager.java:497)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:228)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:178)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:688)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:634)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:64)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:165)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:228)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 07:12:08,005 [  23754]   WARN - arketplace.MarketplaceRequests - Can not get features from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:12:08,146 [  23895]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:12:08,232 [  23981]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:12:22,191 [  37940]   WARN - arketplace.MarketplaceRequests - Error reading Marketplace file: url=https://plugins.jetbrains.com/files/brokenPlugins.json file=brokenPlugins.json 
+java.net.UnknownHostException: plugins.jetbrains.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:620)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:356)
+	at com.intellij.ide.plugins.marketplace.MarketplaceRequests$readOrUpdateFile$2.process(MarketplaceRequests.kt:265)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)
+	at com.intellij.ide.plugins.marketplace.MarketplaceRequests.readOrUpdateFile(MarketplaceRequests.kt:262)
+	at com.intellij.ide.plugins.marketplace.MarketplaceRequests.getBrokenPlugins(MarketplaceRequests.kt:184)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.getBrokenPlugins(UpdateChecker.kt:335)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPluginsUpdate(UpdateChecker.kt:286)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPluginsUpdate$default(UpdateChecker.kt:284)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPluginsUpdate(UpdateChecker.kt)
+	at com.intellij.ide.plugins.newui.PluginUpdatesService.lambda$calculateUpdates$3(PluginUpdatesService.java:202)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:216)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:27)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:195)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:187)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 07:12:22,192 [  37941]   WARN - arketplace.MarketplaceRequests - Can not get broken plugins file from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:12:22,204 [  37953]   WARN - arketplace.MarketplaceRequests - Error reading Marketplace file: url=https://plugins.jetbrains.com/files/pluginsXMLIds.json file=pluginsXMLIds.json 
+java.net.UnknownHostException: plugins.jetbrains.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:620)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:356)
+	at com.intellij.ide.plugins.marketplace.MarketplaceRequests$readOrUpdateFile$2.process(MarketplaceRequests.kt:265)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)
+	at com.intellij.ide.plugins.marketplace.MarketplaceRequests.readOrUpdateFile(MarketplaceRequests.kt:262)
+	at com.intellij.ide.plugins.marketplace.MarketplaceRequests.getMarketplacePlugins(MarketplaceRequests.kt:124)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.validateCompatibleUpdatesForCurrentPlugins(UpdateChecker.kt:396)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPluginsUpdate(UpdateChecker.kt:306)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPluginsUpdate$default(UpdateChecker.kt:284)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.checkPluginsUpdate(UpdateChecker.kt)
+	at com.intellij.ide.plugins.newui.PluginUpdatesService.lambda$calculateUpdates$3(PluginUpdatesService.java:202)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:216)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:27)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:195)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:187)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 07:12:37,867 [  53616]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml 
+2022-02-22 07:12:37,867 [  53616]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml 
+2022-02-22 07:12:37,868 [  53617]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml 
+2022-02-22 07:12:37,869 [  53618]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml 
+2022-02-22 07:12:37,871 [  53620]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml 
+2022-02-22 07:12:37,871 [  53620]   WARN - s.RepoProgressIndicatorAdapter - Failed to download any source lists! 
+2022-02-22 07:12:37,876 [  53625]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+java.net.UnknownHostException: dl.google.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:620)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:356)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:205)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:201)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:138)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:259)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:128)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:138)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 07:12:37,893 [  53642]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+java.net.UnknownHostException: dl.google.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:620)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:356)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:205)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:201)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:138)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:259)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:128)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:138)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 07:12:38,874 [  54623]   WARN - s.RepoProgressIndicatorAdapter - Still waiting for package manifests to be fetched remotely. 
+2022-02-22 07:13:22,506 [  98255]   WARN - tartup.impl.StartupManagerImpl - Activities registered via registerPostStartupActivity must be dumb-aware: com.android.tools.idea.stats.AndroidStudioUsageTracker$ProjectLifecycleTracker$projectComponentsInitialized$1@207086d5 
+2022-02-22 07:13:22,895 [  98644]   WARN -            #com.android.ddmlib - * daemon not running; starting now at tcp:5037 
+2022-02-22 07:13:23,464 [  99213]   WARN -            #com.android.ddmlib - * daemon started successfully 
+2022-02-22 07:13:26,509 [ 102258]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.apk.ApkWritingAccessProvider) 
+2022-02-22 07:13:27,575 [ 103324]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl) 
+2022-02-22 07:13:27,684 [ 103433]   WARN - ssistant.WhatsNewBundleCreator - developer.android.com 
+java.net.UnknownHostException: developer.android.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.downloadConfig(WhatsNewBundleCreator.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.updateConfig(WhatsNewBundleCreator.java:238)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.isNewConfigVersion(WhatsNewBundleCreator.java:161)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewCheckVersionTask.run(WhatsNewCheckVersionTask.kt:34)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:998)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressAsync$5(CoreProgressManager.java:497)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:228)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:178)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:688)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:634)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:64)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:165)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:228)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 07:13:47,570 [ 123319]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:13:47,666 [ 123415]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:13:47,721 [ 123470]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:13:47,946 [ 123695]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:13:48,276 [ 124025]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:13:48,313 [ 124062]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:13:48,324 [ 124073]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:14:23,142 [ 158891]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:14:23,207 [ 158956]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:14:23,220 [ 158969]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:14:23,411 [ 159160]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginAdvertiserExtensionsStateService$State 
+2022-02-22 07:14:24,561 [ 160310]   WARN -       GradleBuildOutputUtil.kt - Failed to read Json output file from /home/aldo/AndroidStudioProjects/Week3/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt. Build may have failed. 
+2022-02-22 07:14:24,653 [ 160402]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:14:24,707 [ 160456]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:14:26,925 [ 162674]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:15:04,223 [ 199972]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:15:08,390 [ 204139]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:15:08,470 [ 204219]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:15:30,371 [ 226120]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:16:12,734 [ 268483]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:16:12,743 [ 268492]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:16:12,820 [ 268569]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:16:12,832 [ 268581]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:16:12,866 [ 268615]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:17:43,154 [ 358903]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+[053 07:24:51.833782] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[053 07:24:51.833820] Ignoring invalid config line: │              │               │
+[053 07:24:51.833838] Ignoring invalid config line: │              │               │
+[053 07:24:51.833855] Ignoring invalid config line: │              │               │
+[053 07:24:51.833871] Ignoring invalid config line: │              ├───────┬───────┤
+[053 07:24:51.833887] Ignoring invalid config line: │              │       │       │
+[053 07:24:51.833903] Ignoring invalid config line: │              │       │       │
+[053 07:24:51.833919] Ignoring invalid config line: │              │       │       │
+[053 07:24:51.833935] Ignoring invalid config line: │              ├───────┴───────┤
+[053 07:24:51.833950] Ignoring invalid config line: │              │               │
+[053 07:24:51.833977] Ignoring invalid config line: │              │               │
+[053 07:24:51.833993] Ignoring invalid config line: │              │               │
+[053 07:24:51.834009] Ignoring invalid config line: └──────────────┴───────────────┘
+[053 07:45:58.743890] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[053 07:45:58.744026] Ignoring invalid config line: │              │               │
+[053 07:45:58.744094] Ignoring invalid config line: │              │               │
+[053 07:45:58.744146] Ignoring invalid config line: │              │               │
+[053 07:45:58.744204] Ignoring invalid config line: │              ├───────┬───────┤
+[053 07:45:58.744258] Ignoring invalid config line: │              │       │       │
+[053 07:45:58.744311] Ignoring invalid config line: │              │       │       │
+[053 07:45:58.744364] Ignoring invalid config line: │              │       │       │
+[053 07:45:58.744418] Ignoring invalid config line: │              ├───────┴───────┤
+[053 07:45:58.744479] Ignoring invalid config line: │              │               │
+[053 07:45:58.744532] Ignoring invalid config line: │              │               │
+[053 07:45:58.744594] Ignoring invalid config line: │              │               │
+[053 07:45:58.744648] Ignoring invalid config line: └──────────────┴───────────────┘
+
+(process:4979): GLib-CRITICAL **: 07:46:10.807: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+thunar-volman: Tipo de dispositivo USB "usb" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+thunar-volman: Tipo de dispositivo USB "(null)" no compatible.
+[053 07:49:03.391911] [PARSE ERROR] Unknown char after ESC: 0x6b
+[053 07:49:03.391962] [PARSE ERROR] Unknown char after ESC: 0x5c
+[053 07:49:03.391972] [PARSE ERROR] Unknown char after ESC: 0x6b
+[053 07:49:03.391981] [PARSE ERROR] Unknown char after ESC: 0x5c
+2022-02-22 07:49:17,861 [2253610]   WARN -            #com.android.ddmlib - Failed to start monitoring STELLARP30004061 
+2022-02-22 07:56:50,710 [2706459]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 07:56:50,745 [2706494]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:01:27,892 [2983641]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:01:27,908 [2983657]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:04:28,629 [3164378]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:04:28,630 [3164379]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:04:28,894 [3164643]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:05:39,054 [3234803]   WARN -            #com.android.ddmlib - Failed to start monitoring STELLARP30004061 
+2022-02-22 08:05:54,897 [3250646]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:05:55,127 [3250876]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:12,191 [3267940]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:12,558 [3268307]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:12,768 [3268517]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:12,971 [3268720]   WARN - l.messages.impl.MessageBusImpl - Broadcast direction TO_CHILDREN  is not allowed for module level message bus. Please change to NONE or TO_PARENT 
+2022-02-22 08:06:13,301 [3269050]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:13,396 [3269145]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:33,458 [3289207]   WARN -            #com.android.ddmlib - An unexpected packet was received before the handshake. 
+2022-02-22 08:06:54,146 [3309895]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:54,272 [3310021]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:54,429 [3310178]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:54,488 [3310237]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:54,584 [3310333]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:55,266 [3311015]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:06:55,464 [3311213]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:07:07,629 [3323378]   WARN - er.configure.SourcesTableModel - Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml 
+2022-02-22 08:07:07,632 [3323381]   WARN - er.configure.SourcesTableModel - Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml 
+2022-02-22 08:07:07,635 [3323384]   WARN - er.configure.SourcesTableModel - Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml 
+2022-02-22 08:07:07,638 [3323387]   WARN - er.configure.SourcesTableModel - Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml 
+2022-02-22 08:07:07,642 [3323391]   WARN - er.configure.SourcesTableModel - Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml 
+2022-02-22 08:07:07,642 [3323391]   WARN - er.configure.SourcesTableModel - Failed to download any source lists! 
+2022-02-22 08:07:07,789 [3323538]   WARN - s.RepoProgressIndicatorAdapter - Observed package id 'build-tools;31.0.0' in inconsistent location '/opt/android-sdk/build-tools/31' (Expected '/opt/android-sdk/build-tools/31.0.0') 
+2022-02-22 08:07:07,987 [3323736]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-5.xml 
+2022-02-22 08:07:07,989 [3323738]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-4.xml 
+2022-02-22 08:07:07,990 [3323739]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-3.xml 
+2022-02-22 08:07:07,991 [3323740]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-2.xml 
+2022-02-22 08:07:07,992 [3323741]   WARN - s.RepoProgressIndicatorAdapter - Failed to connect to host: https://dl.google.com/android/repository/addons_list-1.xml 
+2022-02-22 08:07:07,992 [3323741]   WARN - s.RepoProgressIndicatorAdapter - Failed to download any source lists! 
+2022-02-22 08:07:08,001 [3323750]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+java.net.UnknownHostException: dl.google.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:620)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:356)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:205)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:201)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:138)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:259)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:128)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:138)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 08:07:08,005 [3323754]   WARN - s.RepoProgressIndicatorAdapter - IO exception while downloading manifest 
+java.net.UnknownHostException: dl.google.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:620)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:356)
+	at com.android.tools.idea.sdk.StudioDownloader.lambda$doDownloadFully$2(StudioDownloader.java:205)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:531)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:513)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:332)
+	at com.android.tools.idea.sdk.StudioDownloader.doDownloadFully(StudioDownloader.java:201)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:138)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadFully(StudioDownloader.java:259)
+	at com.android.tools.idea.sdk.StudioDownloader.downloadAndStream(StudioDownloader.java:128)
+	at com.android.repository.impl.manager.RemoteRepoLoaderImpl.lambda$fetchPackages$0(RemoteRepoLoaderImpl.java:138)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 08:07:08,997 [3324746]   WARN - s.RepoProgressIndicatorAdapter - Still waiting for package manifests to be fetched remotely. 
+2022-02-22 08:07:16,540 [3332289]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Android SDK' id=AndroidSdkUpdater 
+2022-02-22 08:07:16,540 [3332289]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Android SDK' id=AndroidSdkUpdater 
+2022-02-22 08:07:16,540 [3332289]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Android SDK' id=AndroidSdkUpdater 
+2022-02-22 08:07:54,686 [3370435]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:08:06,286 [3382035]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:08:12,338 [3388087]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:08:12,432 [3388181]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:08:12,496 [3388245]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:08:13,381 [3389130]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:08:13,519 [3389268]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:00,478 [3556227]   WARN - tartup.impl.StartupManagerImpl - Activities registered via registerPostStartupActivity must be dumb-aware: com.android.tools.idea.stats.AndroidStudioUsageTracker$ProjectLifecycleTracker$projectComponentsInitialized$1@55f6ed3d 
+2022-02-22 08:11:00,813 [3556562]   WARN -            #com.android.ddmlib - * daemon not running; starting now at tcp:5037 
+2022-02-22 08:11:01,414 [3557163]   WARN -            #com.android.ddmlib - * daemon started successfully 
+2022-02-22 08:11:02,254 [3558003]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.apk.ApkWritingAccessProvider) 
+2022-02-22 08:11:02,782 [3558531]   WARN - Container.ComponentManagerImpl - Do not use constructor injection (requestorClass=com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl) 
+2022-02-22 08:11:02,828 [3558577]   WARN - ssistant.WhatsNewBundleCreator - developer.android.com 
+java.net.UnknownHostException: developer.android.com
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1592)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.downloadConfig(WhatsNewBundleCreator.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.updateConfig(WhatsNewBundleCreator.java:238)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.isNewConfigVersion(WhatsNewBundleCreator.java:161)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewCheckVersionTask.run(WhatsNewCheckVersionTask.kt:34)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:998)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressAsync$5(CoreProgressManager.java:497)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:228)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:178)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:688)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:634)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:64)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:165)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:228)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-22 08:11:02,990 [3558739]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,020 [3558769]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,084 [3558833]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,085 [3558834]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,094 [3558843]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,095 [3558844]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,102 [3558851]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,105 [3558854]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:03,288 [3559037]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:20,526 [3576275]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:20,552 [3576301]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:20,552 [3576301]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:20,607 [3576356]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:20,880 [3576629]   WARN -       GradleBuildOutputUtil.kt - Failed to read Json output file from /home/aldo/AndroidStudioProjects/Week3_1/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt. Build may have failed. 
+2022-02-22 08:11:20,971 [3576720]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:20,985 [3576734]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:21,134 [3576883]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:21,178 [3576927]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:21,636 [3577385]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:21,731 [3577480]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:21,800 [3577549]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:21,931 [3577680]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:11:22,313 [3578062]   WARN - ipreview.ModuleClassLoaderImpl - Using already disposed ModuleClassLoaderImpl 
+2022-02-22 08:11:22,326 [3578075]   WARN - ipreview.ModuleClassLoaderImpl - Using already disposed ModuleClassLoaderImpl 
+2022-02-22 08:11:22,349 [3578098]   WARN - ipreview.ModuleClassLoaderImpl - Using already disposed ModuleClassLoaderImpl 
+2022-02-22 08:11:22,350 [3578099]   WARN - ipreview.ModuleClassLoaderImpl - Using already disposed ModuleClassLoaderImpl 
+2022-02-22 08:11:22,382 [3578131]   WARN - ipreview.ModuleClassLoaderImpl - Using already disposed ModuleClassLoaderImpl 
+2022-02-22 08:11:22,383 [3578132]   WARN - ipreview.ModuleClassLoaderImpl - Using already disposed ModuleClassLoaderImpl 
+2022-02-22 08:13:24,466 [3700215]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:13:24,489 [3700238]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:13:58,855 [3734604]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:13:58,865 [3734614]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:14:27,015 [3762764]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:14:27,031 [3762780]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:15:08,315 [3804064]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:15:08,329 [3804078]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:15:08,359 [3804108]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:16:03,122 [3858871]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:16:03,150 [3858899]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:16:32,314 [3888063]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:16:32,320 [3888069]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:16:32,371 [3888120]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:16:32,399 [3888148]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:17:35,219 [3950968]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:17:35,221 [3950970]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:17:35,274 [3951023]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:18:17,926 [3993675]   WARN - rendering.ConfigurationMatcher - 'default' is not a best match for any device/locale combination for file:///home/aldo/AndroidStudioProjects/Week3_1/app/src/main/res/layout/fragment_listado.xml.
+Displaying it with
+  , , , Left To Right, sw412dp, w412dp, h732dp, Normal Screen, Short screen aspect ratio, Not Round screen, , , Portrait Orientation, Normal, Day time, 420 DPI Density, Finger-based touchscreen, Soft keyboard, No keyboard, Hidden navigation, No navigation, Screen resolution 1920x1080, API Level 32
+which is compatible, but will actually be displayed with another more specific version of the layout. 
+2022-02-22 08:18:17,953 [3993702]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:18:17,955 [3993704]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:18:18,010 [3993759]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:18:42,856 [4018605]   WARN - rendering.ConfigurationMatcher - 'default' is not a best match for any device/locale combination for jar:///opt/android-studio/plugins/android/resources/layoutlib/data/framework_res.jar!/res/drawable/list_divider_material.xml.
+Displaying it with
+  , , , Left To Right, sw412dp, w412dp, h732dp, Normal Screen, Short screen aspect ratio, Not Round screen, , , Portrait Orientation, Normal, Day time, 420 DPI Density, Finger-based touchscreen, Soft keyboard, No keyboard, Hidden navigation, No navigation, Screen resolution 1920x1080, API Level 32
+which is compatible, but will actually be displayed with another more specific version of the layout. 
+2022-02-22 08:18:59,945 [4035694]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:18:59,949 [4035698]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:18:59,986 [4035735]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:19:39,171 [4074920]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:19:39,207 [4074956]   WARN - arketplace.MarketplaceRequests - Can not get JetBrains plugins' IDs from Marketplace:plugins.jetbrains.com 
+2022-02-22 08:19:39,905 [4075654]   WARN - rendering.ConfigurationMatcher - 'default' is not a best match for any device/locale combination for file:///home/aldo/AndroidStudioProjects/Week3_1/app/src/main/AndroidManifest.xml.
+Displaying it with
+  , , , Left To Right, sw412dp, w412dp, h732dp, Normal Screen, Short screen aspect ratio, Not Round screen, , , Portrait Orientation, Normal, Day time, 420 DPI Density, Finger-based touchscreen, Soft keyboard, No keyboard, Hidden navigation, No navigation, Screen resolution 1920x1080, API Level 32
+which is compatible, but will actually be displayed with another more specific version of the layout. 
+2022-02-22 08:19:54,932 [4090681]   WARN - dea.model.AndroidManifestIndex - expected: '>' actual: '<' (position:END_TAG </activity>@25:6 in com.intellij.util.text.CharSequenceReader@68daa784)  
+2022-02-22 08:19:54,933 [4090682]   WARN - dea.model.AndroidManifestIndex - expected: /application read: manifest (position:END_TAG </manifest>@27:12 in com.intellij.util.text.CharSequenceReader@68daa784)  
+2022-02-22 08:19:58,800 [4094549]   WARN - dea.model.AndroidManifestIndex - expected: '>' actual: '<' (position:END_TAG </activity>@24:20 in com.intellij.util.text.CharSequenceReader@2f66f69f)  
+2022-02-22 08:19:59,302 [4095051]   WARN - dea.model.AndroidManifestIndex - expected: '>' actual: '<' (position:END_TAG </activity>@25:6 in com.intellij.util.text.CharSequenceReader@7fcd1026)  
+2022-02-22 08:19:59,303 [4095052]   WARN - dea.model.AndroidManifestIndex - expected: /application read: manifest (position:END_TAG </manifest>@27:12 in com.intellij.util.text.CharSequenceReader@7fcd1026)  
+2022-02-22 08:22:40,206 [4255955]   WARN -            #com.android.ddmlib - Failed to start monitoring STELLARP30004061 

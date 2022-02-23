@@ -1,0 +1,17 @@
+#! /bin/sh
+
+case $1 in
+menu)
+  #Open launcher 
+  sh ~/.config/rofi/launchers/misc/launcher.sh
+  ;;
+power)
+  sh ~/.config/rofi/applets/menu/powermenu.sh
+  ;;
+music)
+  sh ~/.config/rofi/applets/menu/mpd.sh
+  ;;
+audio)
+  sh ~/.config/rofi/applets/menu/volume.sh
+  ;;
+esac

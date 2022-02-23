@@ -1,0 +1,210 @@
+config: Unknown setting: 'paddingless_monocle'.
+[ 23/02/22 08:44:19.751 parse_kawase_blur_strength INFO ] blur-strength: 7 [.iter = 3, .offset = 4.250000, .expand = 50]
+[ 23/02/22 08:44:19.844 glx_has_extension INFO ] Found GLX extension GLX_SGI_video_sync.
+[ 23/02/22 08:44:19.844 glx_has_extension INFO ] Found GLX extension GLX_SGI_swap_control.
+[ 23/02/22 08:44:19.844 glx_has_extension INFO ] Found GLX extension GLX_OML_sync_control.
+[ 23/02/22 08:44:19.845 glx_has_extension INFO ] Found GLX extension GLX_MESA_swap_control.
+[ 23/02/22 08:44:19.845 glx_has_extension INFO ] Found GLX extension GLX_EXT_swap_control.
+[ 23/02/22 08:44:19.845 glx_has_extension INFO ] Found GLX extension GLX_EXT_texture_from_pixmap.
+[ 23/02/22 08:44:19.845 glx_has_extension INFO ] Found GLX extension GLX_ARB_create_context.
+[ 23/02/22 08:44:19.845 glx_has_extension INFO ] Found GLX extension GLX_EXT_buffer_age.
+[ 23/02/22 08:44:19.870 gl_has_extension INFO ] Missing GL extension GL_GREMEDY_string_marker.
+[ 23/02/22 08:44:19.870 generate_dual_kawase_params INFO ] blur-strength: 7 [.iter = 3, .offset = 3.250000]
+[ 23/02/22 08:44:19.871 glGetUniformLocationChecked INFO ] Failed to get location of uniform 'opacity'. This is normal when using custom shaders.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[054 08:44:26.227749] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[054 08:44:26.227873] Ignoring invalid config line: │              │               │
+[054 08:44:26.227928] Ignoring invalid config line: │              │               │
+[054 08:44:26.227972] Ignoring invalid config line: │              │               │
+[054 08:44:26.228030] Ignoring invalid config line: │              ├───────┬───────┤
+[054 08:44:26.228080] Ignoring invalid config line: │              │       │       │
+[054 08:44:26.228130] Ignoring invalid config line: │              │       │       │
+[054 08:44:26.228175] Ignoring invalid config line: │              │       │       │
+[054 08:44:26.228220] Ignoring invalid config line: │              ├───────┴───────┤
+[054 08:44:26.228264] Ignoring invalid config line: │              │               │
+[054 08:44:26.228308] Ignoring invalid config line: │              │               │
+[054 08:44:26.228350] Ignoring invalid config line: │              │               │
+[054 08:44:26.228393] Ignoring invalid config line: └──────────────┴───────────────┘
+[ 23/02/22 08:53:23.241 configure_root INFO ] Root configuration changed, new geometry: 1920x1080
+[ 23/02/22 08:53:23.254 gl_has_extension INFO ] Missing GL extension GL_GREMEDY_string_marker.
+[ 23/02/22 08:53:23.254 generate_dual_kawase_params INFO ] blur-strength: 7 [.iter = 3, .offset = 3.250000]
+[ 23/02/22 08:53:23.254 glGetUniformLocationChecked INFO ] Failed to get location of uniform 'opacity'. This is normal when using custom shaders.
+monitor: Invalid descriptor found in 'HDMI-A-0'.
+[ 23/02/22 08:54:02.251 configure_root INFO ] Root configuration changed, new geometry: 3704x1080
+[ 23/02/22 08:54:02.268 gl_has_extension INFO ] Missing GL extension GL_GREMEDY_string_marker.
+[ 23/02/22 08:54:02.268 generate_dual_kawase_params INFO ] blur-strength: 7 [.iter = 3, .offset = 3.250000]
+[ 23/02/22 08:54:02.268 glGetUniformLocationChecked INFO ] Failed to get location of uniform 'opacity'. This is normal when using custom shaders.
+[ 23/02/22 08:54:02.286 configure_root INFO ] Root configuration changed, new geometry: 3704x1080
+[ 23/02/22 08:54:02.318 gl_has_extension INFO ] Missing GL extension GL_GREMEDY_string_marker.
+[ 23/02/22 08:54:02.318 generate_dual_kawase_params INFO ] blur-strength: 7 [.iter = 3, .offset = 3.250000]
+[ 23/02/22 08:54:02.323 glGetUniformLocationChecked INFO ] Failed to get location of uniform 'opacity'. This is normal when using custom shaders.
+config: Unknown setting: 'paddingless_monocle'.
+[ 23/02/22 08:54:02.328 configure_root INFO ] Root configuration changed, new geometry: 3704x1080
+[ 23/02/22 08:54:02.344 parse_kawase_blur_strength INFO ] blur-strength: 7 [.iter = 3, .offset = 4.250000, .expand = 50]
+[ 23/02/22 08:54:02.347 session_init FATAL ERROR ] Another composite manager is already running
+[ 23/02/22 08:54:02.355 gl_has_extension INFO ] Missing GL extension GL_GREMEDY_string_marker.
+[ 23/02/22 08:54:02.355 generate_dual_kawase_params INFO ] blur-strength: 7 [.iter = 3, .offset = 3.250000]
+[ 23/02/22 08:54:02.356 glGetUniformLocationChecked INFO ] Failed to get location of uniform 'opacity'. This is normal when using custom shaders.
+CRITICAL: [src/dbus.c:dbus_cb_name_lost:1027] Cannot acquire 'org.freedesktop.Notifications': Name is acquired by 'dunst' with PID '653'.
+
+(process:3293): GLib-CRITICAL **: 08:54:36.267: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+scrot: Key was pressed, aborting shot
+scrot: no image grabbed: Resource temporarily unavailable
+scrot: Key was pressed, aborting shot
+scrot: no image grabbed: Resource temporarily unavailable
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBroadcastChannel::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[054 09:34:07.785152] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[054 09:34:07.785196] Ignoring invalid config line: │              │               │
+[054 09:34:07.785215] Ignoring invalid config line: │              │               │
+[054 09:34:07.785232] Ignoring invalid config line: │              │               │
+[054 09:34:07.785248] Ignoring invalid config line: │              ├───────┬───────┤
+[054 09:34:07.785263] Ignoring invalid config line: │              │       │       │
+[054 09:34:07.785279] Ignoring invalid config line: │              │       │       │
+[054 09:34:07.785294] Ignoring invalid config line: │              │       │       │
+[054 09:34:07.785309] Ignoring invalid config line: │              ├───────┴───────┤
+[054 09:34:07.785324] Ignoring invalid config line: │              │               │
+[054 09:34:07.785339] Ignoring invalid config line: │              │               │
+[054 09:34:07.785354] Ignoring invalid config line: │              │               │
+[054 09:34:07.785369] Ignoring invalid config line: └──────────────┴───────────────┘
+scrot: Key was pressed, aborting shot
+scrot: no image grabbed: Resource temporarily unavailable
+config: Unknown setting: 'paddingless_monocle'.
+[ 23/02/22 09:47:36.403 parse_kawase_blur_strength INFO ] blur-strength: 7 [.iter = 3, .offset = 4.250000, .expand = 50]
+CRITICAL: [src/dbus.c:dbus_cb_name_lost:1027] Cannot acquire 'org.freedesktop.Notifications': Name is acquired by 'dunst' with PID '653'.
+[ 23/02/22 09:47:36.422 session_init FATAL ERROR ] Another composite manager is already running
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[054 10:03:28.332812] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[054 10:03:28.332871] Ignoring invalid config line: │              │               │
+[054 10:03:28.332893] Ignoring invalid config line: │              │               │
+[054 10:03:28.332912] Ignoring invalid config line: │              │               │
+[054 10:03:28.332930] Ignoring invalid config line: │              ├───────┬───────┤
+[054 10:03:28.332948] Ignoring invalid config line: │              │       │       │
+[054 10:03:28.332966] Ignoring invalid config line: │              │       │       │
+[054 10:03:28.332984] Ignoring invalid config line: │              │       │       │
+[054 10:03:28.333001] Ignoring invalid config line: │              ├───────┴───────┤
+[054 10:03:28.333019] Ignoring invalid config line: │              │               │
+[054 10:03:28.333036] Ignoring invalid config line: │              │               │
+[054 10:03:28.333053] Ignoring invalid config line: │              │               │
+[054 10:03:28.333071] Ignoring invalid config line: └──────────────┴───────────────┘
+[054 10:03:28.802765] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:03:28.802795] [PARSE ERROR] Unknown char after ESC: 0x5c
+[054 10:03:28.802803] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:03:28.802811] [PARSE ERROR] Unknown char after ESC: 0x5c
+[054 10:04:29.340951] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:04:29.341030] [PARSE ERROR] Unknown char after ESC: 0x5c
+[054 10:04:38.391855] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:04:38.391898] [PARSE ERROR] Unknown char after ESC: 0x5c
+[054 10:04:45.181740] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:04:45.181779] [PARSE ERROR] Unknown char after ESC: 0x5c
+[054 10:04:46.027003] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:04:46.027068] [PARSE ERROR] Unknown char after ESC: 0x5c
+[054 10:04:48.699021] [PARSE ERROR] Unknown char after ESC: 0x6b
+[054 10:04:48.699065] [PARSE ERROR] Unknown char after ESC: 0x5c
+
+(process:14272): GLib-CRITICAL **: 10:15:39.109: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+[14287:14399:0223/101541.545212:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[14287:14399:0223/101541.545463:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[14287:14399:0223/101541.545718:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[14327:14327:0223/101541.648450:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[14287:14354:0223/101544.561306:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+[14287:14354:0223/101544.561329:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+[14327:14443:0223/101557.957618:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 994E15B993964755.974CC18F99689146
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[14327:14443:0223/101720.095683:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 5C1BCCA01DD60E5A.17291BC239A1475E
+[14330:4:0223/101720.124460:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 7F5D3D00556E817.723797A10E61EBAF
+[14327:14443:0223/101720.124731:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 7F5D3D00556E817.723797A10E61EBAF
+[14287:14314:0223/101720.170845:ERROR:mcs_client.cc(706)]   Error code: 500  Error message: Cannot parse data.
+[14287:14314:0223/101720.170868:ERROR:mcs_client.cc(708)] Failed to log in to GCM, resetting connection.
+Fontconfig error: Cannot load default config file: No such file: (null)
+[14330:4:0223/101742.511585:ERROR:node_controller.cc(585)] Trying to re-add dropped peer E5F156944FC15F7B.58CEABF851E1219B
+[14327:14443:0223/101746.044974:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 2DC88209D0C98BAC.B982503DBF0A43A7
+[14330:4:0223/101746.046290:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 2DC88209D0C98BAC.B982503DBF0A43A7
+[14328:14333:0223/101746.047167:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 2DC88209D0C98BAC.B982503DBF0A43A7
+[14330:4:0223/101748.945402:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 30B5335C5E110F48.F7675A15A769464C
+[14328:14333:0223/101748.945880:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 30B5335C5E110F48.F7675A15A769464C
+[14327:14443:0223/101748.945764:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 30B5335C5E110F48.F7675A15A769464C
+[14287:14287:0223/101751.821853:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+[14287:14782:0223/102016.962886:ERROR:database.cc(1777)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[14287:14782:0223/102016.999590:ERROR:database.cc(1777)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[14287:14782:0223/102017.113311:ERROR:database.cc(1777)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Warning: disabling flag --expose_wasm due to conflicting flags
+[14330:4:0223/102318.242158:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 53AF53A9146E0C06.692D1F7ACAA1CDC2
+[14330:4:0223/102458.075747:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 9F20022A75E572B3.BD2410532F741364
+[14330:4:0223/102516.147487:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 9111EDD39981E421.86757C93C144FFF2
+[14287:14287:0223/102608.932549:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+[14330:4:0223/102608.955232:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 6D35A58A6AA444C4.9E11284A0303EF1
+[14330:4:0223/102709.732434:ERROR:node_controller.cc(585)] Trying to re-add dropped peer B081EAF93AEDE210.B7650E5015011D02
+[14330:4:0223/102741.391254:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 4961ADB491E9C453.6BAC889B4E1170A2
+[14327:14443:0223/102803.360722:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 704937E74F868513.64BF5B2DDE2E6905
+[14330:4:0223/102804.211780:ERROR:node_controller.cc(585)] Trying to re-add dropped peer F56D3337E0E24B9C.C2EB6759B73D71F6
+[14330:4:0223/102854.878341:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 133BF0EF5D472EB9.5AAA0330E89909F7
+[14330:4:0223/102904.191221:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 653C737DBCD7EACB.DD3DBAE8009172A1
+[14327:14443:0223/102904.191391:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 653C737DBCD7EACB.DD3DBAE8009172A1
+[14330:4:0223/102904.537732:ERROR:node_controller.cc(585)] Trying to re-add dropped peer C01E9C8ADD7D83C0.FCF5591B881AFA97
+[14327:14443:0223/102904.538458:ERROR:node_controller.cc(585)] Trying to re-add dropped peer C01E9C8ADD7D83C0.FCF5591B881AFA97
+[14330:4:0223/102910.616910:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 8EBC799C41FA37ED.310E43DE703E1E03
+Fontconfig error: Cannot load default config file: No such file: (null)
+[14327:14443:0223/102948.572969:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 8E61F087A6AD5DDE.6ADE7C96B926D704
+[14330:4:0223/103107.307809:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 208E9E393262D9A.896A3F43B1AA6EC3
+[14330:4:0223/103110.970264:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 7CEE4DC8AFCD5DD.C182A1AB8C8E4F3E
+[14327:14443:0223/103125.284507:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 3F268C9B1B44DED2.F794689AC070D4EE
+[14330:4:0223/103126.574046:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 3E457587DECD0F71.B789C823DC9B7177
+[14330:4:0223/103152.509559:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 398993F710838517.6C62E62DBBAAECB4
+[14327:14443:0223/103211.946560:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 5880594C46CDC807.155A9BE6692FF6FA
+[14327:14443:0223/103220.124550:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 7764C5DD19AE190F.498FC183AADD9A51
+config: Unknown setting: 'paddingless_monocle'.
+[ 23/02/22 10:34:01.341 parse_kawase_blur_strength INFO ] blur-strength: 7 [.iter = 3, .offset = 4.250000, .expand = 50]
+[ 23/02/22 10:34:01.376 session_init FATAL ERROR ] Another composite manager is already running
+CRITICAL: [src/dbus.c:dbus_cb_name_lost:1027] Cannot acquire 'org.freedesktop.Notifications': Name is acquired by 'dunst' with PID '653'.
+config: Unknown setting: 'paddingless_monocle'.
+[ 23/02/22 13:00:34.713 parse_kawase_blur_strength INFO ] blur-strength: 7 [.iter = 3, .offset = 4.250000, .expand = 50]
+[ 23/02/22 13:00:34.717 session_init FATAL ERROR ] Another composite manager is already running
+CRITICAL: [src/dbus.c:dbus_cb_name_lost:1027] Cannot acquire 'org.freedesktop.Notifications': Name is acquired by 'dunst' with PID '653'.
+[14330:4:0223/130038.650071:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 74816FD81930A5D1.C8FC1643CF4B8D3F
+[14330:4:0223/130039.706357:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 1EE26B3E8C3515BB.7CA9FAFB1CF86AA2
+[14327:14443:0223/130039.708440:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 1EE26B3E8C3515BB.7CA9FAFB1CF86AA2
+[054 13:00:49.192888] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[054 13:00:49.192934] Ignoring invalid config line: │              │               │
+[054 13:00:49.192953] Ignoring invalid config line: │              │               │
+[054 13:00:49.192971] Ignoring invalid config line: │              │               │
+[054 13:00:49.192988] Ignoring invalid config line: │              ├───────┬───────┤
+[054 13:00:49.193023] Ignoring invalid config line: │              │       │       │
+[054 13:00:49.193040] Ignoring invalid config line: │              │       │       │
+[054 13:00:49.193056] Ignoring invalid config line: │              │       │       │
+[054 13:00:49.193073] Ignoring invalid config line: │              ├───────┴───────┤
+[054 13:00:49.193089] Ignoring invalid config line: │              │               │
+[054 13:00:49.193104] Ignoring invalid config line: │              │               │
+[054 13:00:49.193120] Ignoring invalid config line: │              │               │
+[054 13:00:49.193136] Ignoring invalid config line: └──────────────┴───────────────┘
+[054 13:01:38.290727] Ignoring invalid config line: ┌──────────────┬───────────────┐
+[054 13:01:38.290775] Ignoring invalid config line: │              │               │
+[054 13:01:38.290796] Ignoring invalid config line: │              │               │
+[054 13:01:38.290816] Ignoring invalid config line: │              │               │
+[054 13:01:38.290834] Ignoring invalid config line: │              ├───────┬───────┤
+[054 13:01:38.290852] Ignoring invalid config line: │              │       │       │
+[054 13:01:38.290870] Ignoring invalid config line: │              │       │       │
+[054 13:01:38.290887] Ignoring invalid config line: │              │       │       │
+[054 13:01:38.290905] Ignoring invalid config line: │              ├───────┴───────┤
+[054 13:01:38.290922] Ignoring invalid config line: │              │               │
+[054 13:01:38.290940] Ignoring invalid config line: │              │               │
+[054 13:01:38.290957] Ignoring invalid config line: │              │               │
+[054 13:01:38.290975] Ignoring invalid config line: └──────────────┴───────────────┘
+[14328:14333:0223/130205.067814:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 3D09B0568001F969.183F1BA71E6AD8B4
+[14327:14443:0223/130205.068015:ERROR:node_controller.cc(585)] Trying to re-add dropped peer 3D09B0568001F969.183F1BA71E6AD8B4

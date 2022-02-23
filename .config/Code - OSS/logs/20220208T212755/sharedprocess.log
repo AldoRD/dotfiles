@@ -1,0 +1,25 @@
+[2022-02-08 21:27:59.752] [sharedprocess] [info] Starting worker process with pid 7803 (type: fileWatcher, window: 1).
+[2022-02-08 21:28:01.771] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-02-08 21:28:01.774] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-02-08 21:28:01.775] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-02-08 21:28:02.439] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-02-08 21:28:02.451] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-02-08 21:28:02.693] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-02-08 21:28:05.631] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/aldo/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.12.1
+[2022-02-08 21:28:06.619] [sharedprocess] [info] Extracted extension to /home/aldo/.vscode-oss/extensions/.e500eaba-0823-443a-97fa-d58ca259fd46: pkief.material-icon-theme
+[2022-02-08 21:28:06.625] [sharedprocess] [info] Renamed to /home/aldo/.vscode-oss/extensions/pkief.material-icon-theme-4.12.1
+[2022-02-08 21:28:06.628] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-02-08 21:28:06.635] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-02-08 21:28:09.503] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/aldo/.config/Code - OSS/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.4
+[2022-02-08 21:28:10.820] [sharedprocess] [info] Extracted extension to /home/aldo/.vscode-oss/extensions/.c9269f59-29a7-4e6f-942a-24d44ea07373: ritwickdey.liveserver
+[2022-02-08 21:28:10.825] [sharedprocess] [info] Renamed to /home/aldo/.vscode-oss/extensions/ritwickdey.liveserver-5.7.4
+[2022-02-08 21:28:10.826] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-02-08 21:28:10.831] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-02-08 21:28:18.278] [sharedprocess] [info] Worker process with pid 7803 terminated normally (type: fileWatcher, window: 1).
+[2022-02-08 21:28:20.092] [sharedprocess] [info] Starting worker process with pid 7853 (type: fileWatcher, window: 1).
+[2022-02-08 21:28:22.702] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-02-08 21:28:22.928] [sharedprocess] [info] Extensions is already requested to install ms-python.python
+[2022-02-08 21:28:45.699] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-02-08 21:28:45.832] [sharedprocess] [info] Extensions is already requested to install ms-python.python
+[2022-02-08 21:29:03.585] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-02-08 21:29:03.970] [sharedprocess] [info] Extensions is already requested to install ms-python.python

@@ -1,0 +1,37 @@
+> conda info --json
+> /bin/python ~/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python
+> /sbin/python ~/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/pythonFiles/interpreterInfo.py
+[ERROR 2022-0-14 21:42:53.629]: [
+  'Failed to activate a workspace, Class name = m, completed in 378ms, has a falsy return value, Arg 1: <Uri:/home/aldo/.config/qtile/settings/widgets.py>, Return Value: undefined',
+  [Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+  	at S (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:81081)
+  	at w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:81028)
+  	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:23912)
+  	at P.activate (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:74:76104)
+  	at /home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:88058
+  	at Array.map (<anonymous>)
+  	at m.activateWorkspace (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:88049)
+  	at processTicksAndRejections (internal/process/task_queues.js:93:5)]
+]
+[ERROR 2022-0-14 21:42:53.636]: Failure during activation. [Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at S (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:81081)
+	at w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:81028)
+	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:23912)
+	at P.activate (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:74:76104)
+	at /home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:88058
+	at Array.map (<anonymous>)
+	at m.activateWorkspace (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:88049)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)]
+[ERROR 2022-0-14 21:42:53.637]: sendStartupTelemetry() failed. [Error: [ms-python.python]: Proposed API is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+	at S (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:81081)
+	at w (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:81028)
+	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:23912)
+	at P.activate (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:74:76104)
+	at /home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:88058
+	at Array.map (<anonymous>)
+	at m.activateWorkspace (/home/aldo/.vscode-oss/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:88049)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)]
+Starting Jedi language server.

@@ -1,0 +1,43 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.1784.0.1920.1080" x="2741" y="502" />
+    <size key="GridCell.Tab.0.left.1784.0.1920.1080" width="1844" height="303" />
+    <size key="GridCell.Tab.0.center.1784.0.1920.1080" width="1844" height="303" />
+    <size key="GridCell.Tab.0.right.1784.0.1920.1080" width="1844" height="303" />
+    <size key="GridCell.Tab.0.bottom.1784.0.1920.1080" width="1844" height="303" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1844" height="328" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1844" height="328" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1844" height="328" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1844" height="328" />
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="58" width="1890" height="1004" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="740" y="318" key="FileChooserDialogImpl" timestamp="1644412279011">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="318" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1644412279011" />
+    <state x="3193" y="834" width="300" height="195" key="ProcessPopupWindow" timestamp="1644447589871">
+      <screen x="1784" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3193" y="834" width="300" height="195" key="ProcessPopupWindow/1784.0.1920.1080/0.0.1768.999" timestamp="1644447589871" />
+    <state x="2222" y="195" key="SettingsEditor" timestamp="1644377565298">
+      <screen x="1784" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2222" y="195" key="SettingsEditor/1784.0.1920.1080/0.0.1768.999" timestamp="1644377565298" />
+    <state x="499" y="560" width="974" height="1004" key="WELCOME_SCREEN" timestamp="1645539060599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="499" y="560" width="974" height="1004" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1645539060599" />
+    <state x="2283" y="560" width="974" height="1004" key="WELCOME_SCREEN/1784.0.1920.1080/0.0.1768.999" timestamp="1645475709602" />
+  </component>
+</application>

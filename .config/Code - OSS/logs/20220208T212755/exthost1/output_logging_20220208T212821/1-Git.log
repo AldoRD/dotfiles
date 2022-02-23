@@ -1,0 +1,9 @@
+[2022-02-09T03:28:21.547Z] Validating found git in: git
+[2022-02-09T03:28:21.574Z] Using git 2.35.1 from git
+[2022-02-09T03:28:21.602Z] > git rev-parse --git-dir [1ms]
+[2022-02-09T03:28:21.606Z] Open repository: /home/aldo/.config/qtile
+[2022-02-09T03:28:21.682Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-09T03:28:21.691Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [2ms]
+[2022-02-09T03:28:21.707Z] > git remote --verbose [3ms]
+[2022-02-09T03:28:21.708Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-02-09T03:28:21.724Z] > git config --get commit.template [2ms]

@@ -1,0 +1,89 @@
+<project version="4">
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01-A" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="01-A-history" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947089" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Logcat" order="6" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Logcat V2" order="7" />
+      <window_info anchor="bottom" id="Layout Inspector" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="App Inspection" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33019802" />
+      <window_info anchor="bottom" id="clangd" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3282178" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Assistant" order="2" weight="0.32989419" />
+      <window_info anchor="right" id="Android Emulator" order="6" side_tool="true" />
+      <window_info anchor="right" id="Device Manager" order="6" weight="0.32989419" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="538" y="313" width="844" height="500" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644412595091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="313" width="844" height="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1644412595091" />
+    <state x="2529" y="333" key="FileChooserDialogImpl" timestamp="1644447633840">
+      <screen x="1784" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2529" y="333" key="FileChooserDialogImpl/1784.0.1920.1080/0.0.1768.999@1784.0.1920.1080" timestamp="1644447633840" />
+    <state x="2227" y="210" key="SettingsEditor" timestamp="1644447681837">
+      <screen x="1784" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="210" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1644412404686" />
+    <state x="2227" y="210" key="SettingsEditor/1784.0.1920.1080/0.0.1768.999@1784.0.1920.1080" timestamp="1644447681837" />
+  </component>
+</project>

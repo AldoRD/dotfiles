@@ -1,0 +1,12 @@
+[2022-02-08 21:29:13.670] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/aldo/.vscode-oss/extensions/pkief.material-icon-theme-4.11.0
+[2022-02-08 21:29:13.744] [sharedprocess] [info] Deleted from disk ritwickdey.liveserver /home/aldo/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1
+[2022-02-08 21:29:14.123] [sharedprocess] [info] Starting worker process with pid 8228 (type: fileWatcher, window: 1).
+[2022-02-08 21:29:16.225] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-02-08 21:29:16.461] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-02-08 21:29:36.995] [sharedprocess] [info] Downloaded extension: ms-python.python /home/aldo/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.0.1786462952
+[2022-02-08 21:29:40.727] [sharedprocess] [info] Extracted extension to /home/aldo/.vscode-oss/extensions/.f03bda8b-509f-4cee-9c79-4517f2bfa29c: ms-python.python
+[2022-02-08 21:29:40.741] [sharedprocess] [info] Renamed to /home/aldo/.vscode-oss/extensions/ms-python.python-2022.0.1786462952
+[2022-02-08 21:29:40.748] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-02-08 21:29:40.758] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-02-08 21:30:36.121] [sharedprocess] [info] Worker process with pid 8228 terminated normally (type: fileWatcher, window: 1).
+[2022-02-08 21:30:38.432] [sharedprocess] [info] Starting worker process with pid 8476 (type: fileWatcher, window: 1).

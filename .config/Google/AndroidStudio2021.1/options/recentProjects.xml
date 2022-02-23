@@ -1,0 +1,45 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Week2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Week2 – SegundaActivity.java [Week2.app]" projectWorkspaceId="25R2iyHl8hKGL2pDWccEEmueyPh">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747033018" />
+              <frame x="12" y="58" width="1890" height="1004" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1645475709967" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Week3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Week3 – activity_main.xml [Week3.app]" projectWorkspaceId="25T07bwZjSxdZLwxmxaNII2A9kc">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747024241" />
+              <frame x="12" y="58" width="1890" height="1004" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1645535602727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Week3_1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Week3_1 – FragmentDetalle.java [Week3_1.app]" opened="true" projectWorkspaceId="25T788uajBm2HPNVWft6fW9AoCp">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-211.7628.21.2111.8139111" />
+              <option name="buildTimestamp" value="1643747024241" />
+              <frame x="12" y="58" width="1890" height="1004" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1645539060734" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

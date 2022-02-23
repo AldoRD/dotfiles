@@ -1,0 +1,5 @@
+[2022-01-08 18:32:05.503] [renderer1] [info] Starting extension host with pid 23994.
+[2022-01-08 18:32:05.506] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 39 ms.
+[2022-01-08 18:32:07.770] [renderer1] [error] [Extension Host] (node:23994) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-08 18:32:17.609] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'

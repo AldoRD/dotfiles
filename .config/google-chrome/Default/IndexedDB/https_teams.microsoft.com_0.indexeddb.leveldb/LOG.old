@@ -1,0 +1,5 @@
+2022/02/23-10:31:33.827 40dd Creating DB /home/aldo/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb since it was missing.
+2022/02/23-10:31:33.833 40dd Reusing MANIFEST /home/aldo/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/23-10:32:20.387 3f37 Level-0 table #5: started
+2022/02/23-10:32:20.443 3f37 Level-0 table #5: 1376404 bytes OK
+2022/02/23-10:32:20.448 3f37 Delete type=0 #3

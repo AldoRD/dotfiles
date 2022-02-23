@@ -1,0 +1,12 @@
+[2022-01-08 18:32:08.231] [exthost] [info] Extension host with pid 23994 started
+[2022-01-08 18:32:08.231] [exthost] [info] Skipping acquiring lock for /home/aldo/.config/Code - OSS/User/workspaceStorage/9dd99608fb7a1ed3f7a1742b3ae62b95.
+[2022-01-08 18:32:08.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-08 18:32:08.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-08 18:32:08.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-08 18:32:08.702] [exthost] [info] Eager extensions activated
+[2022-01-08 18:32:08.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-08 18:32:08.722] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-08 18:32:40.744] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: '*'
+[2022-01-08 18:32:46.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-01-08 18:32:47.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-08 18:32:47.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

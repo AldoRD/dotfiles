@@ -1,0 +1,16 @@
+{
+    // General Settings
+    "window.zoomLevel": 1,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+
+    // Editor
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Gruvbox Material Dark",
+
+    // Theme
+    "gruvboxMaterial.darkContrast": "hard",
+    "gruvboxMaterial.highContrast": true,
+    "gruvboxMaterial.darkWorkbench": "high-contrast",
+}

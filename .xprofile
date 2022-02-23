@@ -1,0 +1,28 @@
+
+sxhkd &
+exec bspwm
+
+# Screens
+#hdmi=`xrandr | grep ' connected' | grep 'HDMI-1' | awk '{print $1}'`
+#
+#if [ "$hdmi" = "HDMI-1" ]; then
+#  sh /home/aldo/.screenlayout/resolution.sh &
+#else
+#  xrandr --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output HDMI-1 --off &
+#fi
+
+# Composer
+# picom &
+
+# Keyboard Layout
+# setxkbmap latam 
+
+
+# Network
+#nm-applet &
+
+# Automount Devices
+#udiskie -t &
+
+# Wallpaper
+# source ~/.fehbg &

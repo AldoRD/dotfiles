@@ -1,0 +1,33 @@
+{
+   "checksum": "9f37d9c6c8dd161b677146b470327df9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13289980155414490",
+         "date_modified": "13289980170425904",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13289980155414492",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13289980155414494",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

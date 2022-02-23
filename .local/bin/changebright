@@ -1,0 +1,17 @@
+#!/bin/bash
+
+function send_notification() {                                      
+  brightpercent=$(brightnessctl -m -d amdgpu_bl0 | awk -F, '{print substr($4, 0, length($4)-1)}')
+  dunstify -a "changebright" -u low -r "9993" -h int:value:"$brightpercent" "Bright: ${brightpercent}%" -t 2000
+}                                                                   
+                                                                     
+case $1 in                                                          
+up)                                                                 
+  brightnessctl set +10%
+  send_notification                                
+  ;;                                                                
+down)                                                               
+  brightnessctl set 10%-
+  send_notification                                 
+  ;;                                                                
+esac
