@@ -1,0 +1,38 @@
+layout {
+    default_tab_template {
+        children
+        pane size=1 borderless=true {
+            plugin location="file:~/.config/zellij/plugins/zjstatus.wasm" {
+                format_left   "{mode}{tabs}"
+                format_center ""
+                format_right  "#[fg=#586e75,bg=NONE]#[fg=#657b83,bg=#586e75]#[fg=#93a1a1,bg=#657b83,nobold]#[fg=#15161E,bg=#93a1a1,bold] {datetime}"
+                format_space  "#[fg=NONE,bg=NONE]"
+
+                border_enabled  "false"
+                border_char     "─"
+                border_format   "#[fg=#9D8F6F]{char}"
+                border_position "top"
+                hide_frame_for_single_pane "true"
+
+                mode_normal        "#[fg=#002B36,bg=#ADB8B8,bold] {name} #[fg=#ADB8B8,bg=NONE]"
+                mode_pane          "#[fg=#002B36,bg=#859900,bold] {name} #[fg=#859900,bg=NONE]"
+                mode_tab           "#[fg=#002B36,bg=#268BD2,bold] {name} #[fg=#268BD2,bg=NONE]"
+                mode_scroll        "#[fg=#002B36,bg=#268BD2,bold] {name} #[fg=#268BD2,bg=NONE]"
+                mode_rename_tab    "#[fg=#002B36,bg=#CB4B16,bold] {name} #[fg=#CB4B16,bg=NONE]"
+                mode_rename_pane   "#[fg=#002B36,bg=#CB4B16,bold] {name} #[fg=#CB4B16,bg=NONE]"
+                mode_session       "#[fg=#002B36,bg=#6C71C4,bold] {name} #[fg=#6C71C4,bg=NONE]"
+                mode_move          "#[fg=#002B36,bg=#ADB8B8,bold] {name} #[fg=#ADB8B8,bg=NONE]"
+                mode_locked        "#[fg=#002B36,bg=#ADB8B8,bold] {name} #[fg=#ADB8B8,bg=NONE]"
+                mode_enter_search  "#[fg=#002B36,bg=#ADB8B8,bold] {name} #[fg=#ADB8B8,bg=NONE]"
+                mode_prompt        "#[fg=#002B36,bg=#ADB8B8,bold] {name} #[fg=#ADB8B8,bg=NONE]"
+
+                tab_normal    "#[fg=#ADB8B8,bg=NONE] {index}  {name} "
+                tab_active    "#[fg=#eee8d5,bg=NONE]#[fg=#eee8d5,bg=#eee8d5]#[fg=#b58900,bg=#eee8d5] {index} #[fg=#eee8d5,bg=#b58900]#[fg=#eee8d5,bg=#b58900] {name} #[fg=#b58900,bg=NONE]"
+
+                datetime        "#[fg=#002B36,bg=#ADB8B8] {format} "
+                datetime_format "%d %b %Y %H:%M"
+                datetime_timezone "America/Mexico_City"
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+lastupdatecheck: 0
+recentrepos:
+    - /home/aldord/.config/nvim
+    - /home/aldord/workspace/developement/file-drive
+    - /home/aldord/workspace/developement/genetic-algorithm
+    - /home/aldord/workspace/TT/TT2023_B037
+startuppopupversion: 5
+lastversion: 0.42.0
+customcommandshistory: []
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always

@@ -1,0 +1,121 @@
+{
+  "$help": "https://aka.ms/terminal-documentation",
+  "$schema": "https://aka.ms/terminal-profiles-schema-preview",
+  "actions": [
+    {
+      "command": "unbound",
+      "keys": "ctrl+c"
+    },
+    {
+      "command": "unbound",
+      "keys": "ctrl+v"
+    }
+  ],
+  "centerOnLaunch": true,
+  "copyFormatting": "none",
+  "copyOnSelect": false,
+  "disableAnimations": false,
+  "defaultProfile": "",
+  "initialPosition": ",",
+  "launchMode": "focus",
+  "newTabMenu": [
+    {
+      "type": "remainingProfiles"
+    }
+  ],
+  "profiles": {
+    "defaults": {
+      "adjustIndistinguishableColors": "never",
+      "altGrAliasing": false,
+      "antialiasingMode": "cleartype",
+      "bellStyle": "none",
+      "colorScheme": "Tokyo Night",
+      "font": {
+        "face": "Mononoki Nerd Font",
+        "size": 12,
+        "weight": "medium"
+      },
+      "intenseTextStyle": "all",
+      "opacity": 30,
+      "padding": "4",
+      "scrollbarState": "hidden",
+      "useAcrylic": true
+    }
+  },
+  "rendering.disablePartialInvalidation": true,
+  "rendering.graphicsAPI": "direct3d11",
+  "schemes": [
+    {
+      "background": "#1E1E2E",
+      "black": "#45475A",
+      "blue": "#89B4FA",
+      "brightBlack": "#585B70",
+      "brightBlue": "#89B4FA",
+      "brightCyan": "#94E2D5",
+      "brightGreen": "#A6E3A1",
+      "brightPurple": "#F5C2E7",
+      "brightRed": "#F38BA8",
+      "brightWhite": "#A6ADC8",
+      "brightYellow": "#F9E2AF",
+      "cursorColor": "#F5E0DC",
+      "cyan": "#94E2D5",
+      "foreground": "#CDD6F4",
+      "green": "#A6E3A1",
+      "name": "Catppuccin Mocha",
+      "purple": "#F5C2E7",
+      "red": "#F38BA8",
+      "selectionBackground": "#585B70",
+      "white": "#BAC2DE",
+      "yellow": "#F9E2AF"
+    },
+    {
+      "background": "#001E27",
+      "black": "#002831",
+      "blue": "#2176C7",
+      "brightBlack": "#006488",
+      "brightBlue": "#178EC8",
+      "brightCyan": "#00B39E",
+      "brightGreen": "#51EF84",
+      "brightPurple": "#E24D8E",
+      "brightRed": "#F5163B",
+      "brightWhite": "#FCF4DC",
+      "brightYellow": "#B27E28",
+      "cursorColor": "#F34B00",
+      "cyan": "#259286",
+      "foreground": "#9CC2C3",
+      "green": "#6CBE6C",
+      "name": "Solarized Dark Higher Contrast",
+      "purple": "#C61C6F",
+      "red": "#D11C24",
+      "selectionBackground": "#003748",
+      "white": "#EAE3CB",
+      "yellow": "#A57706"
+    },
+    {
+      "background": "#1A1B2C",
+      "black": "#414868",
+      "blue": "#7AA2F7",
+      "brightBlack": "#414868",
+      "brightBlue": "#7AA2F7",
+      "brightCyan": "#7DCFFF",
+      "brightGreen": "#73DACA",
+      "brightPurple": "#BB9AF7",
+      "brightRed": "#F7768E",
+      "brightWhite": "#C0CAF5",
+      "brightYellow": "#E0AF68",
+      "cursorColor": "#C0CAF5",
+      "cyan": "#7DCFFF",
+      "foreground": "#A9B1DC",
+      "green": "#73DACA",
+      "name": "Tokyo Night",
+      "purple": "#BB9AF7",
+      "red": "#F7768E",
+      "selectionBackground": "#28344A",
+      "white": "#C0CAF5",
+      "yellow": "#E0AF68"
+    }
+  ],
+  "themes": [],
+  "useAcrylicInTabRow": true
+}
+

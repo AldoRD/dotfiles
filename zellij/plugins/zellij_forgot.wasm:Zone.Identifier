@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/karimould/zellij-forgot/releases/tag/0.4.0
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/694817462/f7aaed7b-6f65-4bee-b1a8-53c55400bb2e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240514T012756Z&X-Amz-Expires=300&X-Amz-Signature=92ffac38995722856753ef0cfa1f6db4b3cb3f3ecfe8f8c72b0236d7257bfbbb&X-Amz-SignedHeaders=host&actor_id=73556983&key_id=0&repo_id=694817462&response-content-disposition=attachment%3B%20filename%3Dzellij_forgot.wasm&response-content-type=application%2Foctet-stream
