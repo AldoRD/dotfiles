@@ -41,16 +41,17 @@ return {
   },
   {
     "b0o/incline.nvim",
-    dependencies = { "craftzdog/solarized-osaka.nvim" },
+    dependencies = { "craftzdog/solarized-osaka.nvim", "folke/tokyonight.nvim" },
     event = "BufReadPre",
     priority = 1200,
     config = function()
-      local colors = require("solarized-osaka.colors").setup()
+      local colors = require("extra.utils").get_colors_current_theme()
+
       require("incline").setup({
         highlight = {
           groups = {
-            InclineNormal = { guibg = colors.magenta500, guifg = colors.base04 },
-            InclineNormalNC = { guifg = colors.violet500, guibg = colors.base03 },
+            InclineNormal = colors.active_colors,
+            InclineNormalNC = colors.inactive_colors,
           },
         },
         window = { margin = { vertical = 0, horizontal = 1 } },

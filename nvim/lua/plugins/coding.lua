@@ -49,13 +49,7 @@ return {
       })
     end,
   },
-  -- -- Incremental rename
-  -- {
-  --   "smjonas/inc-rename.nvim",
-  --   cmd = "IncRename",
-  --   config = true,
-  -- },
-  --  Better escape
+  --  Better escape JK
   {
     "max397574/better-escape.nvim",
     config = function()
@@ -68,5 +62,10 @@ return {
     config = function()
       require("template-string").setup({})
     end,
+  },
+  -- Disable headlines markdown
+  {
+    "lukas-reineke/headlines.nvim",
+    enabled = false,
   },
 }
