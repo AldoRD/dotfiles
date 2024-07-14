@@ -1,15 +1,14 @@
 lastupdatecheck: 0
 recentrepos:
-    - /home/aldord/.config/nvim
-    - /home/aldord/workspace/developement/file-drive
-    - /home/aldord/workspace/developement/genetic-algorithm
-    - /home/aldord/workspace/TT/TT2023_B037
+    - /home/aldord/.dotfiles
+    - /home/aldord/Workspace/Development/react-native/checking-expo
 startuppopupversion: 5
-lastversion: 0.42.0
+lastversion: 0.43.1
 customcommandshistory: []
 hidecommandlog: false
 ignorewhitespaceindiffview: false
 diffcontextsize: 3
+renamesimilaritythreshold: 50
 localbranchsortorder: recency
 remotebranchsortorder: alphabetical
 gitlogorder: topo-order

@@ -7,7 +7,7 @@ set --unexport LINES
 set fish_greeting ""
 
 # Alias
-if type -q exa
+if type -q eza
     alias ls "eza -l -g --icons"
     alias ll "eza -l -g --icons"
     alias lla "ll -a"
@@ -42,6 +42,13 @@ set -gx PNPM_HOME "/home/aldord/.local/share/pnpm"
 if not string match -q -- $PNPM_HOME $PATH
     set -gx PATH "$PNPM_HOME" $PATH
 end
+
+# Android
+set -gx ANDROID_HOME /mnt/c/Users/herna/AppData/Local/Android/Sdk
+set -gx WSLENV ANDROID_HOME/p
+
+# Windows Path
+set -gx WORK_WIN /mnt/c/Users/herna/
 
 # Rust
 source "$HOME/.cargo/env.fish"

@@ -340,9 +340,8 @@ theme "tokyo-night-storm"
 
 // The name of the default layout to load on startup
 // Default: "default"
-//
-// default_layout "compact"
-// default_layout "main"
+
+// default_layout "solarized-osaka"
 // default_layout "catppuccin"
 default_layout "tokyonight"
 
