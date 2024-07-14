@@ -6,6 +6,8 @@ vim.o.pumblend = 0
 vim.o.winblend = 0
 vim.o.shell = "fish"
 
+vim.g.lazyvim_picker = "telescope"
+
 -- Add asterisks in block comments
 vim.opt.formatoptions:append({ "r" })
 

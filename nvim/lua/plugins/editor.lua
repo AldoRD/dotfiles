@@ -28,14 +28,6 @@ return {
       },
     },
   },
-  -- Outline symbols
-  -- {
-  --   "simrat39/symbols-outline.nvim",
-  --   cmd = "SymbolsOutline",
-  --   keys = { { "<leader>cs", "<cmd>SymbolsOutline<cr>", desc = "Symbols Outline" } },
-  --   config = true,
-  -- },
-
   -- Oil explorer
   {
     "stevearc/oil.nvim",
@@ -45,9 +37,15 @@ return {
       },
     },
     dependencies = { "nvim-tree/nvim-web-devicons" },
+    keys = {
+      { "<Space>oe", "<cmd>Oil<cr>", desc = "Oil Explorer" },
+    },
   },
   {
     "brenoprata10/nvim-highlight-colors",
+    keys = {
+      { "<Space>ch", "<cmd>HighlightColors Toggle<cr>", desc = "Highlight Colors" },
+    },
     opts = {
       ---Render style
       ---@usage 'background'|'foreground'|'virtual'
