@@ -1,7 +1,8 @@
 lastupdatecheck: 0
 recentrepos:
-    - /home/aldord/.dotfiles
+    - /home/aldord/Workspace/Development/react-native/pomodoro-mobile
     - /home/aldord/Workspace/Development/react-native/checking-expo
+    - /home/aldord/.dotfiles
 startuppopupversion: 5
 lastversion: 0.43.1
 customcommandshistory: []
