@@ -7,8 +7,8 @@ if wezterm.config_builder then
 end
 
 -- config.color_scheme = "Solarized (dark) (terminal.sexy)"
--- config.color_scheme = "Catppuccin Mocha"
-config.color_scheme = "Tokyo Night Storm"
+config.color_scheme = "Catppuccin Mocha"
+-- config.color_scheme = "Tokyo Night Storm"
 
 config.term = "xterm-256color"
 config.bold_brightens_ansi_colors = true
@@ -47,6 +47,8 @@ config.keys = {
 	{ key = "=", mods = "CTRL", action = wezterm.action.IncreaseFontSize },
 	{ key = "-", mods = "CTRL", action = wezterm.action.DecreaseFontSize },
 	{ key = "0", mods = "CTRL", action = wezterm.action.ResetFontSize },
+	{ key = "V", mods = "CTRL", action = wezterm.action.PasteFrom("Clipboard") },
+	{ key = "C", mods = "CTRL", action = wezterm.action.CopyTo("ClipboardAndPrimarySelection") },
 }
 
 config.window_background_opacity = 0.75

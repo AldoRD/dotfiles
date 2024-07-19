@@ -335,15 +335,15 @@ default_shell "fish"
 // Choose the theme that is specified in the themes section.
 // Default: default
 // theme "solarized-dark"
-// theme "catppuccin-mocha"
-theme "tokyo-night-storm"
+theme "catppuccin-mocha"
+// theme "tokyo-night-storm"
 
 // The name of the default layout to load on startup
 // Default: "default"
 
 // default_layout "solarized-osaka"
-// default_layout "catppuccin"
-default_layout "tokyonight"
+default_layout "catppuccin"
+// default_layout "tokyonight"
 
 // Choose the mode that zellij uses when starting up.
 // Default: normal
