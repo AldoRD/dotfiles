@@ -43,8 +43,7 @@ return {
   },
   {
     "brenoprata10/nvim-highlight-colors",
-    lazy = true,
-    priority = 1200,
+    lazy = false,
     keys = {
       { "<Space>ch", "<cmd>HighlightColors Toggle<cr>", desc = "Highlight Colors" },
     },
